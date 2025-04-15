@@ -1,0 +1,2067 @@
+{
+  "paquetes": [
+    {
+      "idproducto": 8110,
+      "nombre": "ENTRETENIMIENTO TOTAL",
+      "productos_beneficios": [
+        {
+          "idBeneficio": "PRIMEVIDEO",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/prime.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/prime/prime_img.webp",
+          "nombreBeneficio": "PRIME VIDEO",
+          "descripcion": "Disfruta de series originales y películas sin límites. Además, recibe beneficios increíbles como envíos gratis en productos, acceso a millones de canciones con Amazon Music ¡y más!"
+        },
+        {
+          "idBeneficio": "MAX",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max_img.png",
+          "nombreBeneficio": "MAX",
+          "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+          "canales": [
+            {
+              "idBeneficio": "HBO",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_img.webp",
+              "nombreBeneficio": "HBO",
+              "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+            },
+            {
+              "idBeneficio": "HBO2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_dos_img.webp",
+              "nombreBeneficio": "HBO2",
+              "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+            },
+            {
+              "idBeneficio": "HBOSIGNATURE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+              "nombreBeneficio": "HBO SIGNATURE",
+              "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+            },
+            {
+              "idBeneficio": "HBOFAMILY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+              "nombreBeneficio": "HBO FAMILY",
+              "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+            },
+            {
+              "idBeneficio": "HBOPLUS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+              "nombreBeneficio": "HBO PLUS",
+              "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+            },
+            {
+              "idBeneficio": "HBOPOP",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+              "nombreBeneficio": "HBO POP",
+              "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+            },
+            {
+              "idBeneficio": "HBOXTREME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extremme_img.webp",
+              "nombreBeneficio": "HBO XTREME",
+              "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+            },
+            {
+              "idBeneficio": "HBOMUNDI",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+              "nombreBeneficio": "HBO MUNDI",
+              "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "EDYE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/edye.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/edye/edie_img.webp",
+          "nombreBeneficio": "EDYE",
+          "descripcion": "Personajes entrañables para los niños más consentidos de la casa: con Edye aprender va de la mano de la diversión."
+        },
+        {
+          "idBeneficio": "BABYFIRST",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/baby_firts.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/baby_firts/baby_firts.webp",
+          "nombreBeneficio": "BABY FIRST",
+          "descripcion": "Deja que los más pequeños se diviertan y aprendan con contenido especialmente creado para ellos ¡además tienes programas hechos para padres!"
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "ANIMEONEGAI",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/anime_onegai.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/anime_onegai/anime_img.webp",
+          "nombreBeneficio": "ANIME ONEGAI",
+          "descripcion": "¡No te pierdas la programación exclusiva de todas tus series, las 24 horas del día, los 365 días del año!"
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        },
+        {
+          "idBeneficio": "KanalDrama",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+          "nombreBeneficio": "KANAL D DRAMA",
+          "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español."
+        },
+        {
+          "idBeneficio": "DAZN",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/dazn_descricp.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/dazn/img_dazn.png",
+          "nombreBeneficio": "DAZN",
+          "descripcion": "Un espacio para los mayores aficionados al deporte, con acceso a eventos en vivo y programación original. Sigue los más grandes eventos de boxeo, futbol varonil y femenil, artes marciales mixtas, el PGA Tour, ciclismo ¡y mucho más!"
+        },
+        {
+          "idBeneficio": "a3Player",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/atresplayer.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3.png",
+          "nombreBeneficio": "A TRES PLAYER",
+          "descripcion": "Disfruta de las mejores producciones originales españolas, con series, programas de entretenimiento y películas ¡estrenos todos los días! Además, accede a los canales en vivo: Antena 3 Internacional, A3Series, ¡Hola! TV y A3Cine."
+        },
+        {
+          "idBeneficio": "FOXSPORTS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_img.webp",
+          "nombreBeneficio": "FOX SPORTS",
+          "descripcion": "¡Vive la emoción del deporte! No te pierdas los shows de Fox Sports y los eventos más esperados como la NFL, MLB, fútbol internacional (UEFA Europa League y Conference League), los partidos más emocionantes de la Liga MX y la acción intensa de la WWE"
+        }
+      ]
+    },
+    {
+      "idproducto": 8111,
+      "nombre": "FAMILIAR",
+      "productos_beneficios": [
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "BABYFIRST",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/baby_firts.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/baby_firts/baby_firts.webp",
+          "nombreBeneficio": "BABY FIRST",
+          "descripcion": "Deja que los más pequeños se diviertan y aprendan con contenido especialmente creado para ellos ¡además tienes programas hechos para padres!"
+        },
+        {
+          "idBeneficio": "EDYE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/edye.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/edye/edie_img.webp",
+          "nombreBeneficio": "EDYE",
+          "descripcion": "Personajes entrañables para los niños más consentidos de la casa: con Edye aprender va de la mano de la diversión."
+        },
+        {
+          "idBeneficio": "KanalDrama",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+          "nombreBeneficio": "KANAL D DRAMA",
+          "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español."
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        }
+      ]
+    },
+    {
+      "idproducto": 91110,
+      "nombre": "FAMILIAR MAS DUO",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idBeneficio": "EDYE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/edye.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/edye/edie_img.webp",
+          "nombreBeneficio": "EDYE",
+          "descripcion": "Personajes entrañables para los niños más consentidos de la casa: con Edye aprender va de la mano de la diversión."
+        },
+        {
+          "idBeneficio": "COCOMELON",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cocomelon.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cocomelon/cocomelon.jpg",
+          "nombreBeneficio": "COCOMELON",
+          "descripcion": "Únete a JJ, su familia y amigos en aventuras cotidianas, explorando y aprendiendo a través de personajes, situaciones y canciones que los harán mover los pies."
+        }
+      ]
+    },
+    {
+      "idproducto": 91120,
+      "nombre": "DEPORTES MAS",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idproducto": 9,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/max.webp",
+          "nombreBeneficio": "MAX",
+          "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+          "nombre_web": "HBO Max",
+          "canales": [
+            {
+              "idBeneficio": "HBO",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo.webp",
+              "nombreBeneficio": "HBO",
+              "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+            },
+            {
+              "idBeneficio": "HBO2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo2.webp",
+              "nombreBeneficio": "HBO2",
+              "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+            },
+            {
+              "idBeneficio": "HBOSIGNATURE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+              "nombreBeneficio": "HBO SIGNATURE",
+              "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+            },
+            {
+              "idBeneficio": "HBOFAMILY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+              "nombreBeneficio": "HBO FAMILY",
+              "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+            },
+            {
+              "idBeneficio": "HBOPLUS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+              "nombreBeneficio": "HBO PLUS",
+              "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+            },
+            {
+              "idBeneficio": "HBOPOP",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+              "nombreBeneficio": "HBO POP",
+              "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+            },
+            {
+              "idBeneficio": "HBOXTREME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extreme.webp",
+              "nombreBeneficio": "HBO XTREME",
+              "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+            },
+            {
+              "idBeneficio": "HBOMUNDI",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+              "nombreBeneficio": "HBO MUNDI",
+              "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "DAZN",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/dazn_descricp.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/dazn/img_dazn.png",
+          "nombreBeneficio": "DAZN",
+          "descripcion": "Un espacio para los mayores aficionados al deporte, con acceso a eventos en vivo y programación original. Sigue los más grandes eventos de boxeo, futbol varonil y femenil, artes marciales mixtas, el PGA Tour, ciclismo ¡y mucho más!"
+        },
+        {
+          "idproducto": 20,
+          "nombreBeneficio": "FOX SPORTS",
+          "descripcion": "¡Vive la emoción del deporte! No te pierdas los shows de Fox Sports y los eventos más esperados como la NFL, MLB, fútbol internacional (UEFA Europa League y Conference League), los partidos más emocionantes de la Liga MX y la acción intensa de la WWE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_img.webp",
+          "nombre_web": "Fox Sports",
+          "canales": [
+            {
+              "idBeneficio": "FOXSPORTS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports.webp",
+              "nombreBeneficio": "FOX SPORTS",
+              "descripcion": "Disfruta de los grandes eventos deportivos del mundo sin interrupciones y de producciones originales, para que no te pierdas de ningún detalle. Además de contenido extra, en exclusiva, que te mantendrá al borde del asiento. ¡Disfruta en vivo del futbol mexicano e internacional, las Grandes Ligas, deportes extremos, automovilismo, Lucha Libre, futbol americano y más!"
+            },
+            {
+              "idBeneficio": "FOXSPORTS2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports2.webp",
+              "nombreBeneficio": "FOX SPORTS 2",
+              "descripcion": "Tu dosis diaria de fútbol y más! Disfruta de la programación alternativa de Fox Sports, con todos los partidos de la Liga MX, Liga de Expansión MX, Liga MX Femenil, y la Liga Concacaf. ¡El paraíso para los fanáticos del fútbol!"
+            },
+            {
+              "idBeneficio": "FOXSPORTS3",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports3.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports3.webp",
+              "nombreBeneficio": "FOX SPORTS 3",
+              "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+            },
+            {
+              "idBeneficio": "FOXSPORTSPREMIUM",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_premium.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/foxpremium_img.webp",
+              "nombreBeneficio": "FOX SPORTS PREMIUM",
+              "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idproducto": 91130,
+      "nombre": " ENTRETENIMIENTO PLAY",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        }
+      ]
+    },
+    {
+      "idproducto": 91140,
+      "nombre": "ENTRETENIMIENTO UNIQUE",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idBeneficio": "ANIMEONEGAI",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/anime_onegai.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/anime_onegai/anime_img.webp",
+          "nombreBeneficio": "ANIME ONEGAI",
+          "descripcion": "¡No te pierdas la programación exclusiva de todas tus series, las 24 horas del día, los 365 días del año!"
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        },
+        {
+          "idBeneficio": "KanalDrama",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+          "nombreBeneficio": "KANAL D DRAMA",
+          "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español."
+        }
+      ]
+    },
+    {
+      "idproducto": 91150,
+      "nombre": "ENTRETENIMIENTO SELECT",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idproducto": 10,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/paramount.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/paramount_plus/paramount_plus_img.webp",
+          "nombreBeneficio": "PARAMOUNT+",
+          "descripcion": "Historias únicas, estrellas icónicas y programas exclusivos, esta es la casa de la Premier League, con los 380 partidos en vivo.",
+          "nombre_web": "Paramount"
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "a3Player",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/atresplayer.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3.png",
+          "nombreBeneficio": "A TRES PLAYER",
+          "descripcion": "Disfruta de las mejores producciones originales españolas, con series, programas de entretenimiento y películas ¡estrenos todos los días! Además, accede a los canales en vivo: Antena 3 Internacional, A3Series, ¡Hola! TV y A3Cine."
+        },
+        {
+          "idBeneficio": "KanalDrama",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+          "nombreBeneficio": "KANAL D DRAMA",
+          "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español."
+        }
+      ]
+    },
+    {
+      "idproducto": 91160,
+      "nombre": "DUO SERIES Y PELICULAS",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idproducto": 9,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/max.webp",
+          "nombreBeneficio": "MAX",
+          "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+          "nombre_web": "HBO Max",
+          "canales": [
+            {
+              "idBeneficio": "HBO",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo.webp",
+              "nombreBeneficio": "HBO",
+              "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+            },
+            {
+              "idBeneficio": "HBO2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo2.webp",
+              "nombreBeneficio": "HBO2",
+              "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+            },
+            {
+              "idBeneficio": "HBOSIGNATURE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+              "nombreBeneficio": "HBO SIGNATURE",
+              "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+            },
+            {
+              "idBeneficio": "HBOFAMILY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+              "nombreBeneficio": "HBO FAMILY",
+              "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+            },
+            {
+              "idBeneficio": "HBOPLUS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+              "nombreBeneficio": "HBO PLUS",
+              "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+            },
+            {
+              "idBeneficio": "HBOPOP",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+              "nombreBeneficio": "HBO POP",
+              "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+            },
+            {
+              "idBeneficio": "HBOXTREME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extreme.webp",
+              "nombreBeneficio": "HBO XTREME",
+              "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+            },
+            {
+              "idBeneficio": "HBOMUNDI",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+              "nombreBeneficio": "HBO MUNDI",
+              "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "COCOMELON",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cocomelon.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cocomelon/cocomelon.jpg",
+          "nombreBeneficio": "COCOMELON",
+          "descripcion": "Únete a JJ, su familia y amigos en aventuras cotidianas, explorando y aprendiendo a través de personajes, situaciones y canciones que los harán mover los pies."
+        }
+      ]
+    },
+    {
+      "idproducto": 91170,
+      "nombre": "DUO PLUS",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idproducto": 10,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/paramount.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/paramount_plus/paramount_plus_img.webp",
+          "nombreBeneficio": "PARAMOUNT+",
+          "descripcion": "Historias únicas, estrellas icónicas y programas exclusivos, esta es la casa de la Premier League, con los 380 partidos en vivo.",
+          "nombre_web": "Paramount"
+        },
+        {
+          "idBeneficio": "COCOMELON",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cocomelon.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cocomelon/cocomelon.jpg",
+          "nombreBeneficio": "COCOMELON",
+          "descripcion": "Únete a JJ, su familia y amigos en aventuras cotidianas, explorando y aprendiendo a través de personajes, situaciones y canciones que los harán mover los pies."
+        }
+      ]
+    },
+    {
+      "idproducto": 91180,
+      "nombre": "DUO ESENCIAL",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idBeneficio": "COCOMELON",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cocomelon.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cocomelon/cocomelon.jpg",
+          "nombreBeneficio": "COCOMELON",
+          "descripcion": "Únete a JJ, su familia y amigos en aventuras cotidianas, explorando y aprendiendo a través de personajes, situaciones y canciones que los harán mover los pies."
+        }
+      ]
+    },
+    {
+      "idproducto": 91190,
+      "nombre": "ENTRETEMINIENTO TOTAL",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idBeneficio": "DAZN",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/dazn_descricp.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/dazn/img_dazn.png",
+          "nombreBeneficio": "DAZN",
+          "descripcion": "Un espacio para los mayores aficionados al deporte, con acceso a eventos en vivo y programación original. Sigue los más grandes eventos de boxeo, futbol varonil y femenil, artes marciales mixtas, el PGA Tour, ciclismo ¡y mucho más!"
+        },
+        {
+          "idBeneficio": "PRIMEVIDEO",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/prime.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/prime/prime_img.webp",
+          "nombreBeneficio": "PRIME VIDEO",
+          "descripcion": "Disfruta de series originales y películas sin límites. Además, recibe beneficios increíbles como envíos gratis en productos, acceso a millones de canciones con Amazon Music ¡y más!"
+        },
+        {
+          "idproducto": 9,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/max.webp",
+          "nombreBeneficio": "MAX",
+          "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+          "nombre_web": "HBO Max",
+          "canales": [
+            {
+              "idBeneficio": "HBO",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo.webp",
+              "nombreBeneficio": "HBO",
+              "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+            },
+            {
+              "idBeneficio": "HBO2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo2.webp",
+              "nombreBeneficio": "HBO2",
+              "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+            },
+            {
+              "idBeneficio": "HBOSIGNATURE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+              "nombreBeneficio": "HBO SIGNATURE",
+              "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+            },
+            {
+              "idBeneficio": "HBOFAMILY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+              "nombreBeneficio": "HBO FAMILY",
+              "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+            },
+            {
+              "idBeneficio": "HBOPLUS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+              "nombreBeneficio": "HBO PLUS",
+              "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+            },
+            {
+              "idBeneficio": "HBOPOP",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+              "nombreBeneficio": "HBO POP",
+              "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+            },
+            {
+              "idBeneficio": "HBOXTREME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extreme.webp",
+              "nombreBeneficio": "HBO XTREME",
+              "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+            },
+            {
+              "idBeneficio": "HBOMUNDI",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+              "nombreBeneficio": "HBO MUNDI",
+              "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+            }
+          ]
+        },
+        {
+          "idproducto": 20,
+          "nombreBeneficio": "FOX SPORTS",
+          "descripcion": "¡Vive la emoción del deporte! No te pierdas los shows de Fox Sports y los eventos más esperados como la NFL, MLB, fútbol internacional (UEFA Europa League y Conference League), los partidos más emocionantes de la Liga MX y la acción intensa de la WWE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_img.webp",
+          "nombre_web": "Fox Sports",
+          "canales": [
+            {
+              "idBeneficio": "FOXSPORTS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports.webp",
+              "nombreBeneficio": "FOX SPORTS",
+              "descripcion": "Disfruta de los grandes eventos deportivos del mundo sin interrupciones y de producciones originales, para que no te pierdas de ningún detalle. Además de contenido extra, en exclusiva, que te mantendrá al borde del asiento. ¡Disfruta en vivo del futbol mexicano e internacional, las Grandes Ligas, deportes extremos, automovilismo, Lucha Libre, futbol americano y más!"
+            },
+            {
+              "idBeneficio": "FOXSPORTS2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports2.webp",
+              "nombreBeneficio": "FOX SPORTS 2",
+              "descripcion": "Tu dosis diaria de fútbol y más! Disfruta de la programación alternativa de Fox Sports, con todos los partidos de la Liga MX, Liga de Expansión MX, Liga MX Femenil, y la Liga Concacaf. ¡El paraíso para los fanáticos del fútbol!"
+            },
+            {
+              "idBeneficio": "FOXSPORTS3",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports3.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports3.webp",
+              "nombreBeneficio": "FOX SPORTS 3",
+              "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+            },
+            {
+              "idBeneficio": "FOXSPORTSPREMIUM",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_premium.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/foxpremium_img.webp",
+              "nombreBeneficio": "FOX SPORTS PREMIUM",
+              "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+            }
+          ]
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "ANIMEONEGAI",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/anime_onegai.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/anime_onegai/anime_img.webp",
+          "nombreBeneficio": "ANIME ONEGAI",
+          "descripcion": "¡No te pierdas la programación exclusiva de todas tus series, las 24 horas del día, los 365 días del año!"
+        },
+        {
+          "idproducto": 10,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/paramount.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/paramount_plus/paramount_plus_img.webp",
+          "nombreBeneficio": "PARAMOUNT+",
+          "descripcion": "Historias únicas, estrellas icónicas y programas exclusivos, esta es la casa de la Premier League, con los 380 partidos en vivo.",
+          "nombre_web": "Paramount"
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        },
+        {
+          "idBeneficio": "a3Player",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/atresplayer.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3.png",
+          "nombreBeneficio": "A TRES PLAYER",
+          "descripcion": "Disfruta de las mejores producciones originales españolas, con series, programas de entretenimiento y películas ¡estrenos todos los días! Además, accede a los canales en vivo: Antena 3 Internacional, A3Series, ¡Hola! TV y A3Cine."
+        },
+        {
+          "idBeneficio": "KanalDrama",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+          "nombreBeneficio": "KANAL D DRAMA",
+          "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español."
+        },
+        {
+          "idBeneficio": "COCOMELON",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cocomelon.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cocomelon/cocomelon.jpg",
+          "nombreBeneficio": "COCOMELON",
+          "descripcion": "Únete a JJ, su familia y amigos en aventuras cotidianas, explorando y aprendiendo a través de personajes, situaciones y canciones que los harán mover los pies."
+        },
+        {
+          "idBeneficio": "EDYE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/edye.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/edye/edie_img.webp",
+          "nombreBeneficio": "EDYE",
+          "descripcion": "Personajes entrañables para los niños más consentidos de la casa: con Edye aprender va de la mano de la diversión."
+        },
+        {
+          "idBeneficio": "BABYFIRST",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/baby_firts.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/baby_firts/baby_firts.webp",
+          "nombreBeneficio": "BABY FIRST",
+          "descripcion": "Deja que los más pequeños se diviertan y aprendan con contenido especialmente creado para ellos ¡además tienes programas hechos para padres!"
+        }
+      ]
+    },
+    {
+      "idproducto": 91200,
+      "nombre": "ENTRETEMINIENTO",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idproducto": 9,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/max.webp",
+          "nombreBeneficio": "MAX",
+          "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+          "nombre_web": "HBO Max",
+          "canales": [
+            {
+              "idBeneficio": "HBO",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo.webp",
+              "nombreBeneficio": "HBO",
+              "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+            },
+            {
+              "idBeneficio": "HBO2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo2.webp",
+              "nombreBeneficio": "HBO2",
+              "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+            },
+            {
+              "idBeneficio": "HBOSIGNATURE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+              "nombreBeneficio": "HBO SIGNATURE",
+              "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+            },
+            {
+              "idBeneficio": "HBOFAMILY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+              "nombreBeneficio": "HBO FAMILY",
+              "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+            },
+            {
+              "idBeneficio": "HBOPLUS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+              "nombreBeneficio": "HBO PLUS",
+              "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+            },
+            {
+              "idBeneficio": "HBOPOP",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+              "nombreBeneficio": "HBO POP",
+              "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+            },
+            {
+              "idBeneficio": "HBOXTREME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extreme.webp",
+              "nombreBeneficio": "HBO XTREME",
+              "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+            },
+            {
+              "idBeneficio": "HBOMUNDI",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+              "nombreBeneficio": "HBO MUNDI",
+              "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "PRIMEVIDEO",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/prime.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/prime/prime_img.webp",
+          "nombreBeneficio": "PRIME VIDEO",
+          "descripcion": "Disfruta de series originales y películas sin límites. Además, recibe beneficios increíbles como envíos gratis en productos, acceso a millones de canciones con Amazon Music ¡y más!"
+        },
+        {
+          "idproducto": 10,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/paramount.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/paramount_plus/paramount_plus_img.webp",
+          "nombreBeneficio": "PARAMOUNT+",
+          "descripcion": "Historias únicas, estrellas icónicas y programas exclusivos, esta es la casa de la Premier League, con los 380 partidos en vivo.",
+          "nombre_web": "Paramount"
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        },
+        {
+          "idBeneficio": "a3Player",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/atresplayer.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3.png",
+          "nombreBeneficio": "A TRES PLAYER",
+          "descripcion": "Disfruta de las mejores producciones originales españolas, con series, programas de entretenimiento y películas ¡estrenos todos los días! Además, accede a los canales en vivo: Antena 3 Internacional, A3Series, ¡Hola! TV y A3Cine."
+        },
+        {
+          "idBeneficio": "COCOMELON",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cocomelon.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cocomelon/cocomelon.jpg",
+          "nombreBeneficio": "COCOMELON",
+          "descripcion": "Únete a JJ, su familia y amigos en aventuras cotidianas, explorando y aprendiendo a través de personajes, situaciones y canciones que los harán mover los pies."
+        }
+      ]
+    },
+    {
+      "idproducto": 81120,
+      "nombre": "KIDS",
+      "productos_beneficios": [
+        {
+          "idBeneficio": "EDYE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/edye.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/edye/edie_img.webp",
+          "nombreBeneficio": "EDYE",
+          "descripcion": "Personajes entrañables para los niños más consentidos de la casa: con Edye aprender va de la mano de la diversión."
+        },
+        {
+          "idBeneficio": "BABYFIRST",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/baby_firts.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/baby_firts/baby_firts.webp",
+          "nombreBeneficio": "BABY FIRST",
+          "descripcion": "Deja que los más pequeños se diviertan y aprendan con contenido especialmente creado para ellos ¡además tienes programas hechos para padres!"
+        },
+        {
+          "idBeneficio": "COCOMELON",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cocomelon.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cocomelon/cocomelon.jpg",
+          "nombreBeneficio": "COCOMELON",
+          "descripcion": "Únete a JJ, su familia y amigos en aventuras cotidianas, explorando y aprendiendo a través de personajes, situaciones y canciones que los harán mover los pies."
+        }
+      ]
+    },
+    {
+      "idproducto": 81130,
+      "nombre": "DEPORTES",
+      "productos_beneficios": [
+        {
+          "idBeneficio": "DAZN",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/dazn_descricp.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/dazn/img_dazn.png",
+          "nombreBeneficio": "DAZN",
+          "descripcion": "Un espacio para los mayores aficionados al deporte, con acceso a eventos en vivo y programación original. Sigue los más grandes eventos de boxeo, futbol varonil y femenil, artes marciales mixtas, el PGA Tour, ciclismo ¡y mucho más!"
+        },
+        {
+          "idproducto": 20,
+          "nombreBeneficio": "FOX SPORTS",
+          "descripcion": "¡Vive la emoción del deporte! No te pierdas los shows de Fox Sports y los eventos más esperados como la NFL, MLB, fútbol internacional (UEFA Europa League y Conference League), los partidos más emocionantes de la Liga MX y la acción intensa de la WWE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_img.webp",
+          "nombre_web": "Fox Sports",
+          "canales": [
+            {
+              "idBeneficio": "FOXSPORTS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports.webp",
+              "nombreBeneficio": "FOX SPORTS",
+              "descripcion": "Disfruta de los grandes eventos deportivos del mundo sin interrupciones y de producciones originales, para que no te pierdas de ningún detalle. Además de contenido extra, en exclusiva, que te mantendrá al borde del asiento. ¡Disfruta en vivo del futbol mexicano e internacional, las Grandes Ligas, deportes extremos, automovilismo, Lucha Libre, futbol americano y más!"
+            },
+            {
+              "idBeneficio": "FOXSPORTS2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports2.webp",
+              "nombreBeneficio": "FOX SPORTS 2",
+              "descripcion": "Tu dosis diaria de fútbol y más! Disfruta de la programación alternativa de Fox Sports, con todos los partidos de la Liga MX, Liga de Expansión MX, Liga MX Femenil, y la Liga Concacaf. ¡El paraíso para los fanáticos del fútbol!"
+            },
+            {
+              "idBeneficio": "FOXSPORTS3",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports3.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports3.webp",
+              "nombreBeneficio": "FOX SPORTS 3",
+              "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+            },
+            {
+              "idBeneficio": "FOXSPORTSPREMIUM",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_premium.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/foxpremium_img.webp",
+              "nombreBeneficio": "FOX SPORTS PREMIUM",
+              "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idproducto": 81140,
+      "nombre": "DEPORTES +",
+      "productos_beneficios": [
+        {
+          "idproducto": 27,
+          "nombreBeneficio": "DISNEY+",
+          "descripcion": "Disney+ te ofrece entretenimiento de Disney, Pixar, Marvel, Star Wars, National Geographic y Star. Desde originales exclusivos hasta tus clásicos favoritos, para disfrutar con la mejor calidad.",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyLogoModal.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/disney/disneyImgModal.jpg",
+          "nombre_web": "DISNEY+"
+        },
+        {
+          "idproducto": 9,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/max.webp",
+          "nombreBeneficio": "MAX",
+          "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+          "nombre_web": "HBO Max",
+          "canales": [
+            {
+              "idBeneficio": "HBO",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo.webp",
+              "nombreBeneficio": "HBO",
+              "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+            },
+            {
+              "idBeneficio": "HBO2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo2.webp",
+              "nombreBeneficio": "HBO2",
+              "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+            },
+            {
+              "idBeneficio": "HBOSIGNATURE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+              "nombreBeneficio": "HBO SIGNATURE",
+              "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+            },
+            {
+              "idBeneficio": "HBOFAMILY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+              "nombreBeneficio": "HBO FAMILY",
+              "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+            },
+            {
+              "idBeneficio": "HBOPLUS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+              "nombreBeneficio": "HBO PLUS",
+              "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+            },
+            {
+              "idBeneficio": "HBOPOP",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+              "nombreBeneficio": "HBO POP",
+              "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+            },
+            {
+              "idBeneficio": "HBOXTREME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extreme.webp",
+              "nombreBeneficio": "HBO XTREME",
+              "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+            },
+            {
+              "idBeneficio": "HBOMUNDI",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+              "nombreBeneficio": "HBO MUNDI",
+              "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+            }
+          ]
+        },
+        {
+          "idproducto": 10,
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/paramount.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/paramount_plus/paramount_plus_img.webp",
+          "nombreBeneficio": "PARAMOUNT+",
+          "descripcion": "Historias únicas, estrellas icónicas y programas exclusivos, esta es la casa de la Premier League, con los 380 partidos en vivo.",
+          "nombre_web": "Paramount"
+        },
+        {
+          "idBeneficio": "DAZN",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/dazn_descricp.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/dazn/img_dazn.png",
+          "nombreBeneficio": "DAZN",
+          "descripcion": "Un espacio para los mayores aficionados al deporte, con acceso a eventos en vivo y programación original. Sigue los más grandes eventos de boxeo, futbol varonil y femenil, artes marciales mixtas, el PGA Tour, ciclismo ¡y mucho más!"
+        },
+        {
+          "idproducto": 20,
+          "nombreBeneficio": "FOX SPORTS",
+          "descripcion": "¡Vive la emoción del deporte! No te pierdas los shows de Fox Sports y los eventos más esperados como la NFL, MLB, fútbol internacional (UEFA Europa League y Conference League), los partidos más emocionantes de la Liga MX y la acción intensa de la WWE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_img.webp",
+          "nombre_web": "Fox Sports",
+          "canales": [
+            {
+              "idBeneficio": "FOXSPORTS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports.webp",
+              "nombreBeneficio": "FOX SPORTS",
+              "descripcion": "Disfruta de los grandes eventos deportivos del mundo sin interrupciones y de producciones originales, para que no te pierdas de ningún detalle. Además de contenido extra, en exclusiva, que te mantendrá al borde del asiento. ¡Disfruta en vivo del futbol mexicano e internacional, las Grandes Ligas, deportes extremos, automovilismo, Lucha Libre, futbol americano y más!"
+            },
+            {
+              "idBeneficio": "FOXSPORTS2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports2.webp",
+              "nombreBeneficio": "FOX SPORTS 2",
+              "descripcion": "Tu dosis diaria de fútbol y más! Disfruta de la programación alternativa de Fox Sports, con todos los partidos de la Liga MX, Liga de Expansión MX, Liga MX Femenil, y la Liga Concacaf. ¡El paraíso para los fanáticos del fútbol!"
+            },
+            {
+              "idBeneficio": "FOXSPORTS3",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports3.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports3.webp",
+              "nombreBeneficio": "FOX SPORTS 3",
+              "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+            },
+            {
+              "idBeneficio": "FOXSPORTSPREMIUM",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_premium.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/foxpremium_img.webp",
+              "nombreBeneficio": "FOX SPORTS PREMIUM",
+              "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idproducto": 8112,
+      "nombre": "ENTRETENIMIENTO MAS",
+      "productos_beneficios": [
+        {
+          "idBeneficio": "PRIMEVIDEO",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/prime.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/prime/prime_img.webp",
+          "nombreBeneficio": "PRIME VIDEO",
+          "descripcion": "Disfruta de series originales y películas sin límites. Además, recibe beneficios increíbles como envíos gratis en productos, acceso a millones de canciones con Amazon Music ¡y más!"
+        },
+        {
+          "idBeneficio": "MAX",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max_img.png",
+          "nombreBeneficio": "MAX",
+          "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+          "canales": [
+            {
+              "idBeneficio": "HBO",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_img.webp",
+              "nombreBeneficio": "HBO",
+              "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+            },
+            {
+              "idBeneficio": "HBO2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_dos_img.webp",
+              "nombreBeneficio": "HBO2",
+              "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+            },
+            {
+              "idBeneficio": "HBOSIGNATURE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+              "nombreBeneficio": "HBO SIGNATURE",
+              "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+            },
+            {
+              "idBeneficio": "HBOFAMILY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+              "nombreBeneficio": "HBO FAMILY",
+              "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+            },
+            {
+              "idBeneficio": "HBOPLUS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+              "nombreBeneficio": "HBO PLUS",
+              "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+            },
+            {
+              "idBeneficio": "HBOPOP",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+              "nombreBeneficio": "HBO POP",
+              "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+            },
+            {
+              "idBeneficio": "HBOXTREME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extremme_img.webp",
+              "nombreBeneficio": "HBO XTREME",
+              "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+            },
+            {
+              "idBeneficio": "HBOMUNDI",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+              "nombreBeneficio": "HBO MUNDI",
+              "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        },
+        {
+          "idBeneficio": "ANIMEONEGAI",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/anime_onegai.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/anime_onegai/anime_img.webp",
+          "nombreBeneficio": "ANIME ONEGAI",
+          "descripcion": "¡No te pierdas la programación exclusiva de todas tus series, las 24 horas del día, los 365 días del año!"
+        },
+        {
+          "idBeneficio": "KanalDrama",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+          "nombreBeneficio": "KANAL D DRAMA",
+          "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español."
+        },
+        {
+          "idBeneficio": "DAZN",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/dazn_descricp.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/dazn/img_dazn.png",
+          "nombreBeneficio": "DAZN",
+          "descripcion": "Un espacio para los mayores aficionados al deporte, con acceso a eventos en vivo y programación original. Sigue los más grandes eventos de boxeo, futbol varonil y femenil, artes marciales mixtas, el PGA Tour, ciclismo ¡y mucho más!"
+        },
+        {
+          "idBeneficio": "a3Player",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/atresplayer.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3.png",
+          "nombreBeneficio": "A TRES PLAYER",
+          "descripcion": "Disfruta de las mejores producciones originales españolas, con series, programas de entretenimiento y películas ¡estrenos todos los días! Además, accede a los canales en vivo: Antena 3 Internacional, A3Series, ¡Hola! TV y A3Cine."
+        }
+      ]
+    },
+    {
+      "idproducto": 8113,
+      "nombre": "ENTRETENIMIENTO",
+      "productos_beneficios": [
+        {
+          "idBeneficio": "PRIMEVIDEO",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/prime.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/prime/prime_img.webp",
+          "nombreBeneficio": "PRIME VIDEO",
+          "descripcion": "Disfruta de series originales y películas sin límites. Además, recibe beneficios increíbles como envíos gratis en productos, acceso a millones de canciones con Amazon Music ¡y más!"
+        },
+        {
+          "idBeneficio": "MAX",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max_img.png",
+          "nombreBeneficio": "MAX",
+          "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+          "canales": [
+            {
+              "idBeneficio": "HBO",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_img.webp",
+              "nombreBeneficio": "HBO",
+              "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+            },
+            {
+              "idBeneficio": "HBO2",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_dos_img.webp",
+              "nombreBeneficio": "HBO2",
+              "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+            },
+            {
+              "idBeneficio": "HBOSIGNATURE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+              "nombreBeneficio": "HBO SIGNATURE",
+              "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+            },
+            {
+              "idBeneficio": "HBOFAMILY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+              "nombreBeneficio": "HBO FAMILY",
+              "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+            },
+            {
+              "idBeneficio": "HBOPLUS",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+              "nombreBeneficio": "HBO PLUS",
+              "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+            },
+            {
+              "idBeneficio": "HBOPOP",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+              "nombreBeneficio": "HBO POP",
+              "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+            },
+            {
+              "idBeneficio": "HBOXTREME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extremme_img.webp",
+              "nombreBeneficio": "HBO XTREME",
+              "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+            },
+            {
+              "idBeneficio": "HBOMUNDI",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+              "nombreBeneficio": "HBO MUNDI",
+              "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        },
+        {
+          "idBeneficio": "a3Player",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/atresplayer.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3.png",
+          "nombreBeneficio": "A TRES PLAYER",
+          "descripcion": "Disfruta de las mejores producciones originales españolas, con series, programas de entretenimiento y películas ¡estrenos todos los días! Además, accede a los canales en vivo: Antena 3 Internacional, A3Series, ¡Hola! TV y A3Cine."
+        }
+      ]
+    },
+    {
+      "idproducto": 8114,
+      "nombre": "FAMILIAR MAS",
+      "productos_beneficios": [
+        {
+          "idBeneficio": "PRIMEVIDEO",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/prime.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/prime/prime_img.webp",
+          "nombreBeneficio": "PRIME VIDEO",
+          "descripcion": "Disfruta de series originales y películas sin límites. Además, recibe beneficios increíbles como envíos gratis en productos, acceso a millones de canciones con Amazon Music ¡y más!"
+        },
+        {
+          "idBeneficio": "EDYE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/edye.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/edye/edie_img.webp",
+          "nombreBeneficio": "EDYE",
+          "descripcion": "Personajes entrañables para los niños más consentidos de la casa: con Edye aprender va de la mano de la diversión."
+        },
+        {
+          "idBeneficio": "BABYFIRST",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/baby_firts.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/baby_firts/baby_firts.webp",
+          "nombreBeneficio": "BABY FIRST",
+          "descripcion": "Deja que los más pequeños se diviertan y aprendan con contenido especialmente creado para ellos ¡además tienes programas hechos para padres!"
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "ANIMEONEGAI",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/anime_onegai.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/anime_onegai/anime_img.webp",
+          "nombreBeneficio": "ANIME ONEGAI",
+          "descripcion": "¡No te pierdas la programación exclusiva de todas tus series, las 24 horas del día, los 365 días del año!"
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        },
+        {
+          "idBeneficio": "KanalDrama",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+          "nombreBeneficio": "KANAL D DRAMA",
+          "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español."
+        }
+      ]
+    },
+    {
+      "idproducto": 8115,
+      "nombre": "FAMILIAR INTERNACIONAL",
+      "productos_beneficios": [
+        {
+          "idBeneficio": "ANIMEONEGAI",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/anime_onegai.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/anime_onegai/anime_img.webp",
+          "nombreBeneficio": "ANIME ONEGAI",
+          "descripcion": "¡No te pierdas la programación exclusiva de todas tus series, las 24 horas del día, los 365 días del año!"
+        },
+        {
+          "idBeneficio": "CINDIE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+          "nombreBeneficio": "CINDIE",
+          "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+        },
+        {
+          "idBeneficio": "UNIVERSALPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/img_principal/universal.webp",
+          "nombreBeneficio": "UNIVERSAL+",
+          "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+          "canales": [
+            {
+              "idBeneficio": "UNIVERSALPREMIERE",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere_img.webp",
+              "nombreBeneficio": "UNIVERSAL PREMIERE",
+              "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+            },
+            {
+              "idBeneficio": "UNIVERSALCINEMA",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+              "nombreBeneficio": "UNIVERSAL CINEMA",
+              "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+            },
+            {
+              "idBeneficio": "UNIVERSALCOMEDY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy_img.webp",
+              "nombreBeneficio": "UNIVERSAL COMEDY",
+              "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+            },
+            {
+              "idBeneficio": "UNIVERSALCRIME",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime_img.webp",
+              "nombreBeneficio": "UNIVERSAL CRIME",
+              "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+            },
+            {
+              "idBeneficio": "UNIVERSALREALITY",
+              "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+              "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+              "nombreBeneficio": "UNIVERSAL REALITY",
+              "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+            }
+          ]
+        },
+        {
+          "idBeneficio": "KanalDrama",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+          "nombreBeneficio": "KANAL D DRAMA",
+          "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español."
+        },
+        {
+          "idBeneficio": "a3Player",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/atresplayer.svg",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3.png",
+          "nombreBeneficio": "A TRES PLAYER",
+          "descripcion": "Disfruta de las mejores producciones originales españolas, con series, programas de entretenimiento y películas ¡estrenos todos los días! Además, accede a los canales en vivo: Antena 3 Internacional, A3Series, ¡Hola! TV y A3Cine."
+        }
+      ]
+    }
+  ],
+  "adicional": [
+    {
+      "idproducto": 6,
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/prime.webp",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/prime/prime_img.webp",
+      "nombreBeneficio": "PRIME VIDEO",
+      "descripcion": "Disfruta de series originales y películas sin límites. Además, recibe beneficios increíbles como envíos gratis en productos, acceso a millones de canciones con Amazon Music ¡y más!",
+      "nombre_web": "Amazon"
+    },
+    {
+      "idproducto": 9,
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/max/max.webp",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/max.webp",
+      "nombreBeneficio": "MAX",
+      "descripcion": "La mejor opción para ver series extraordinarias, personajes emblemáticos, películas y contenido de la vida real",
+      "nombre_web": "HBO Max",
+      "canales": [
+        {
+          "idBeneficio": "HBO",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo.webp",
+          "nombreBeneficio": "HBO",
+          "descripcion": "Lo nuevo, lo mejor, todo estreno en HBO. Sinónimo de calidad, las series y películas que llegan a este canal son ganadoras de premios y cuentan con excelentes historias."
+        },
+        {
+          "idBeneficio": "HBO2",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO2.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo2.webp",
+          "nombreBeneficio": "HBO2",
+          "descripcion": "El lugar para los que quieren entretenimiento en su propio idioma, con películas y series originales dobladas especialmente para los espectadores."
+        },
+        {
+          "idBeneficio": "HBOSIGNATURE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/HBO_signature.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_signature_img.webp",
+          "nombreBeneficio": "HBO SIGNATURE",
+          "descripcion": "Encuentra los momentos más icónicos de la televisión, con los éxitos en tendencia y maratones de las series más recordadas."
+        },
+        {
+          "idBeneficio": "HBOFAMILY",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_family.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_family_img.webp",
+          "nombreBeneficio": "HBO FAMILY",
+          "descripcion": "Un espacio seguro para compartir en familia, con grandes animados y películas para todas las edades, dobladas al español."
+        },
+        {
+          "idBeneficio": "HBOPLUS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_plus.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_plus_img.webp",
+          "nombreBeneficio": "HBO PLUS",
+          "descripcion": "Aquí convergen los múltiples universos de superhéroes, videojuegos, terror y fantasía épica que forman parte de la cultura pop."
+        },
+        {
+          "idBeneficio": "HBOPOP",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_pop.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_pop_img.webp",
+          "nombreBeneficio": "HBO POP",
+          "descripcion": "Relájate y olvídate de las preocupaciones, aquí tienes las mejores películas de comedia, drama, fantasía, romance y aventura."
+        },
+        {
+          "idBeneficio": "HBOXTREME",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbo_extreme.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_extreme.webp",
+          "nombreBeneficio": "HBO XTREME",
+          "descripcion": "¡Acelera tu pulso y desata la adrenalina! Este es el lugar de la acción, ciencia ficción, thrillers, horror y todo lo que conlleve emociones extremas."
+        },
+        {
+          "idBeneficio": "HBOMUNDI",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/hbomundi.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/hbomax/hbo_mundi_img.webp",
+          "nombreBeneficio": "HBO MUNDI",
+          "descripcion": "El espacio para sumergirte en el mundo indie, de culto, y compartir con directores reconocidos y talentos emergentes, con cine internacional y galardonado en los festivales."
+        }
+      ]
+    },
+    {
+      "idproducto": 10,
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/paramount.webp",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/paramount_plus/paramount_plus_img.webp",
+      "nombreBeneficio": "PARAMOUNT+",
+      "descripcion": "Historias únicas, estrellas icónicas y programas exclusivos, esta es la casa de la Premier League, con los 380 partidos en vivo.",
+      "nombre_web": "Paramount"
+    },
+    {
+      "idproducto": 13,
+      "nombreBeneficio": "Hot Go",
+      "descripcion": "La mayor variedad en Latinoamérica de contenidos para adultos en un solo lugar, de forma privada y segura.",
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/hotgo.svg",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/hotgo.jpg",
+      "nombre_web": "Hotgo"
+    },
+    {
+      "idproducto": 14,
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/edye.webp",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/edye/edie_img.webp",
+      "nombreBeneficio": "EDYE",
+      "descripcion": "Personajes entrañables para los niños más consentidos de la casa: con Edye aprender va de la mano de la diversión.",
+      "nombre_web": "Edye"
+    },
+    {
+      "idproducto": 16,
+      "nombreBeneficio": "Anime Onegai",
+      "descripcion": "¡No te pierdas la programación exclusiva de todas tus series, las 24 horas del día, los 365 días del año!",
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/anime%20_negai.jpg",
+      "nombre_web": "Anime Onegai"
+    },
+    {
+      "idproducto": 17,
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_mas.webp",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal.webp",
+      "nombreBeneficio": "UNIVERSAL+",
+      "descripcion": "Miles de horas de contenido, con franquicias exitosas como La Ley y el Orden y FBI, estrenos exclusivos y películas taquilleras para toda la familia.",
+      "nombre_web": "Universal",
+      "canales": [
+        {
+          "idBeneficio": "UNIVERSALPREMIERE",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_prime.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_premiere.webp",
+          "nombreBeneficio": "UNIVERSAL PREMIERE",
+          "descripcion": "No te pierdas las últimas temporadas de las franquicias de televisión más vistas y los últimos lanzamientos directamente de los Estados Unidos"
+        },
+        {
+          "idBeneficio": "UNIVERSALCINEMA",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_cinema.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_cinema_img.webp",
+          "nombreBeneficio": "UNIVERSAL CINEMA",
+          "descripcion": "Transporta a los amantes del cine a vivir la experiencia de los mayores éxitos de taquilla de Hollywood y las películas premiadas de todos los géneros."
+        },
+        {
+          "idBeneficio": "UNIVERSALCOMEDY",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_commedy.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_commedy.webp",
+          "nombreBeneficio": "UNIVERSAL COMEDY",
+          "descripcion": "Sumérgete en el mundo de la risa, con las franquicias de comedia más icónicas y los comediantes más recientes y divertidos."
+        },
+        {
+          "idBeneficio": "UNIVERSALCRIME",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/universal_crime.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_crime.webp",
+          "nombreBeneficio": "UNIVERSAL CRIME",
+          "descripcion": "Cientos de horas de contenido de crímenes reales en varios formatos, desde asesinos en serie famosos, hasta asesinos inesperados e improbables."
+        },
+        {
+          "idBeneficio": "UNIVERSALREALITY",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/univesal_reality.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/universal_mas/universal_reality_img.webp",
+          "nombreBeneficio": "UNIVERSAL REALITY",
+          "descripcion": "Los momentos más escandalosos y dramáticos de los reality shows, ahora bajo un mismo techo, para que disfrutes de todo el drama y los personajes más complejos."
+        }
+      ]
+    },
+    {
+      "idproducto": 19,
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/logos/cindie.webp",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/cindie/cindie_img.webp",
+      "nombreBeneficio": "CINDIE",
+      "descripcion": "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine.",
+      "nombre_web": "Cindie"
+    },
+    {
+      "idproducto": 20,
+      "nombreBeneficio": "FOX SPORTS",
+      "descripcion": "¡Vive la emoción del deporte! No te pierdas los shows de Fox Sports y los eventos más esperados como la NFL, MLB, fútbol internacional (UEFA Europa League y Conference League), los partidos más emocionantes de la Liga MX y la acción intensa de la WWE",
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports.webp",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_img.webp",
+      "nombre_web": "Fox Sports",
+      "canales": [
+        {
+          "idBeneficio": "FOXSPORTS",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports.webp",
+          "nombreBeneficio": "FOX SPORTS",
+          "descripcion": "Disfruta de los grandes eventos deportivos del mundo sin interrupciones y de producciones originales, para que no te pierdas de ningún detalle. Además de contenido extra, en exclusiva, que te mantendrá al borde del asiento. ¡Disfruta en vivo del futbol mexicano e internacional, las Grandes Ligas, deportes extremos, automovilismo, Lucha Libre, futbol americano y más!"
+        },
+        {
+          "idBeneficio": "FOXSPORTS2",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports2.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports2.webp",
+          "nombreBeneficio": "FOX SPORTS 2",
+          "descripcion": "Tu dosis diaria de fútbol y más! Disfruta de la programación alternativa de Fox Sports, con todos los partidos de la Liga MX, Liga de Expansión MX, Liga MX Femenil, y la Liga Concacaf. ¡El paraíso para los fanáticos del fútbol!"
+        },
+        {
+          "idBeneficio": "FOXSPORTS3",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_sports3.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/fox_sports3.webp",
+          "nombreBeneficio": "FOX SPORTS 3",
+          "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+        },
+        {
+          "idBeneficio": "FOXSPORTSPREMIUM",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/fox_premium.webp",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/fox_sports/foxpremium_img.webp",
+          "nombreBeneficio": "FOX SPORTS PREMIUM",
+          "descripcion": "La adrenalina del motor y el fútbol. Sumérgete en el mundo del automovilismo con la Fórmula 1 y programas dedicados al motor. Además, disfruta de partidos de la UEFA Europa League, UEFA Conference League y la Liga de Campeones CONCACAF. ¡La emoción no se detiene!"
+        }
+      ]
+    },
+    {
+      "idproducto": 21,
+      "nombreBeneficio": "PICARDIA NACIONAL",
+      "descripcion": "Sexy-comedias y éxitos de los 80’s y 90’s, además de una vasta colección de reciente producción y estrenos mensuales ¡y por si fuera poco: lo mejor de la música grupera, jaripeo y entrevistas exclusivas!",
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/logo_plataforma/picardia_mexicana.png",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/picardia_mexicana.jpg",
+      "nombre_web": "Picardía Nacional"
+    },
+    {
+      "idproducto": 24,
+      "nombreBeneficio": "KANAL D DRAMA",
+      "descripcion": "El canal que reúne los más exitosos e impactantes dramas turcos, con personajes y lugares que inspiran, transforman y cautivan. Disponibles100% doblados al español.",
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/kdrama/img_kdrama.webp",
+      "nombre_web": "Kanal D Drama"
+    },
+    {
+      "idproducto": 25,
+      "nombreBeneficio": "DAZN",
+      "descripcion": "Un espacio para los mayores aficionados al deporte, con acceso a eventos en vivo y programación original. Sigue los más grandes eventos de boxeo, futbol varonil y femenil, artes marciales mixtas, el PGA Tour, ciclismo ¡y mucho más!",
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/dazn_descricp.svg",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/dazn/img_dazn.png",
+      "nombre_web": "DAZN"
+    },
+    {
+      "idproducto": 26,
+      "nombreBeneficio": "A TRES PLAYER",
+      "descripcion": "Disfruta de las mejores producciones originales españolas, con series, programas de entretenimiento y películas ¡estrenos todos los días! Además, accede a los canales en vivo: Antena 3 Internacional, A3Series, ¡Hola! TV y A3Cine.",
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/atresplayer.svg",
+      "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3.png",
+      "nombre_web": "A TRES PLAYER",
+      "canales": [
+        {
+          "idBeneficio": "Antena 3 Internacional",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/antena3.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_antena3.png",
+          "nombreBeneficio": "Antena 3 Internacional",
+          "descripcion": "Programas de fama mundial como El Hormiguero 3.0 y Pasapalabra, series, deportes, películas, documentales y noticias traídos directo desde España."
+        },
+        {
+          "idBeneficio": "A3Series",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/a3series.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3series.png",
+          "nombreBeneficio": "A3Series",
+          "descripcion": "Este canal ofrece una amplia gama de series dirigidas al público hispano, con una selección que abarca desde clásicos hasta producciones contemporáneas."
+        },
+        {
+          "idBeneficio": "¡Hola! TV",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/holatv.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_holatv.png",
+          "nombreBeneficio": "¡Hola! TV",
+          "descripcion": "El canal para la mujer de hoy. Actualidad, tendencias, estilo de vida, entrevistas a las celebridades del momento y la cobertura de las galas internacionales y alfombras rojas. Entérate de todo en Íconos ¡HOLA! TV y no te pierdas de los especiales de la realeza."
+        },
+        {
+          "idBeneficio": "A3 Cine",
+          "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/a3cine.png",
+          "imagenPrincipal": "https://d31nz91qboyide.cloudfront.net/mvshub/landingmvshub/modales/atresplayer/img_a3cine.png",
+          "nombreBeneficio": "A3 Cine",
+          "descripcion": "Este canal tiene un enfoque cinematográfico dirigido al público hispano y una selección de más de 7,000 películas, con todos los géneros de ayer y hoy, con la máxima calidad de imagen y sonido."
+        }
+      ]
+    },
+    {
+      "idproducto": 29,
+      "nombreBeneficio": "NFL Pass",
+      "descripcion": "Disfruta de NFL Pass.",
+      "logoBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/gamepass.webp",
+      "imagenPrincipal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfaxWh59wNdsrHyg1hXlBq62NR3YxY_XyhcQ&s",
+      "nombre_web": "NFL Pass",
+      "canales": []
+    }
+  ]
+}

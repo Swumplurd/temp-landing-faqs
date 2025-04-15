@@ -1,0 +1,19 @@
+<svg id="Grupo_32598" data-name="Grupo 32598" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="93" viewBox="0 0 91 93">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f66f1b"/>
+      <stop offset="1" stop-color="#f89405"/>
+    </linearGradient>
+    <filter id="Elipse_359" x="0" y="0" width="91" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.537"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Elipse_359)">
+    <circle id="Elipse_359-2" data-name="Elipse 359" cx="45.5" cy="45.5" r="45.5" fill="url(#linear-gradient)"/>
+  </g>
+  <path id="celular" d="M32.42,0H4.45A4.135,4.135,0,0,0,0,4.45V62.723a4.135,4.135,0,0,0,4.45,4.45H32.42a4.135,4.135,0,0,0,4.45-4.45V4.45A4.135,4.135,0,0,0,32.42,0ZM15.5,3.03h6.061c.7,0,1.263.237,1.263.758s-.566.758-1.263.758H15.5c-.7,0-1.263-.237-1.263-.758S14.8,3.03,15.5,3.03Zm3.03,62.041a2.485,2.485,0,1,1,2.485-2.485A2.483,2.483,0,0,1,18.531,65.071Zm14.3-6.99H4.04V7.071H32.829Z" transform="translate(27.383 12.447)" fill="#512e98"/>
+</svg>

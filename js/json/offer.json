@@ -1,0 +1,1492 @@
+{
+    "message": "Información obtenida",
+    "tracerror": "",
+    "status_code": "200",
+    "response": {
+      "paquetes_mas_tv": [
+        {
+          "idproducto": 8111,
+          "idproducto_tv": "1707",
+          "nombre": "ESENCIAL + FAMILIAR",
+          "precio": 378,
+          "precio_obsoleto": 622,
+          "pocentaje_ahorro": "39%",
+          "precio_ahorro": 244,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "888",
+          "canales": "100",
+          "nombre_web": "Paquete Familiar",
+          "beneficios": [
+            "Tu entretenimiento en livestreaming",
+            "Series y películas exclusivas",
+            "Shows de comedia y realities",
+            "Contenido educativo para niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            }
+          ]
+        },
+        {
+          "idproducto": 8114,
+          "idproducto_tv": "1707",
+          "nombre": "ESENCIAL + FAMILIAR MAS",
+          "precio": 508,
+          "precio_obsoleto": 776,
+          "pocentaje_ahorro": "35%",
+          "precio_ahorro": 268,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "889",
+          "canales": "100",
+          "nombre_web": "Paquete Familiar Más",
+          "beneficios": [
+            "Tu entretenimiento en livestreaming",
+            "Películas de estreno y exclusivas",
+            "Series originales y shows",
+            "Divertidas caricaturas para los niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            }
+          ]
+        },
+        {
+          "idproducto": 8115,
+          "idproducto_tv": "1707",
+          "nombre": "ESENCIAL + FAMILIAR INTERNACIONAL",
+          "precio": 578,
+          "precio_obsoleto": 779,
+          "pocentaje_ahorro": "26%",
+          "precio_ahorro": 201,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "2329",
+          "canales": "100",
+          "nombre_web": "Paquete Familiar Internacional",
+          "beneficios": [
+            "Tu entretenimiento en livestreaming",
+            "Películas de estreno y exclusivas",
+            "Series originales y shows",
+            "Divertidas caricaturas para los niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ]
+        },
+        {
+          "idproducto": 8113,
+          "idproducto_tv": "1707",
+          "nombre": "ESENCIAL + ENTRETENIMIENTO",
+          "precio": 688,
+          "precio_obsoleto": 923,
+          "pocentaje_ahorro": "25%",
+          "precio_ahorro": 235,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "890",
+          "canales": "100",
+          "nombre_web": "Paquete Entretenimiento",
+          "beneficios": [
+            "Tu entretenimiento en livestreaming",
+            "Miles de series y películas",
+            "Estrenos exclusivos cada mes",
+            "Contenidos estelares para los niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ]
+        },
+        {
+          "idproducto": 8112,
+          "idproducto_tv": "1707",
+          "nombre": "ESENCIAL + ENTRETENIMIENTO MAS",
+          "precio": 888,
+          "precio_obsoleto": 1307,
+          "pocentaje_ahorro": "32%",
+          "precio_ahorro": 419,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "891",
+          "canales": "100",
+          "nombre_web": "Paquete Entretenimiento Más",
+          "beneficios": [
+            "Tu entretenimiento en livestreaming",
+            "Películas de estreno",
+            "Las mejores series originales y exclusivas",
+            "Futbol internacional EN VIVO",
+            "Series infantiles para los peques"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 25,
+              "nombreBeneficio": "DAZN",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/DAZN.png"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ]
+        },
+        {
+          "idproducto": 8110,
+          "idproducto_tv": "1707",
+          "nombre": "ESENCIAL + ENTRETENIMIENTO TOTAL",
+          "precio": 1088,
+          "precio_obsoleto": 1553,
+          "pocentaje_ahorro": "30%",
+          "precio_ahorro": 465,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "892",
+          "canales": "100",
+          "nombre_web": "Paquete Entretenimiento Total",
+          "beneficios": [
+            "Tu entretenimiento en livestreaming",
+            "Las series que todos quieren ver",
+            "Estrenos y películas sin límites",
+            "Deportes en vivo y en directo",
+            "Diversión y contenido educativo para niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 25,
+              "nombreBeneficio": "DAZN",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/DAZN.png"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            },
+            {
+              "idBeneficio": 20,
+              "nombreBeneficio": "Fox Sports",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/fox_sports.png"
+            }
+          ]
+        },
+        {
+          "idproducto": 8111,
+          "idproducto_tv": "2333",
+          "nombre": "EXTENDIDO + FAMILIAR",
+          "precio": 578,
+          "precio_obsoleto": 772,
+          "pocentaje_ahorro": "25%",
+          "precio_ahorro": 194,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "888",
+          "canales": "146",
+          "nombre_web": "Paquete Familiar",
+          "beneficios": [
+            "Aumenta tu entretenimiento con más canales en livestreaming",
+            "Series y películas exclusivas",
+            "Shows de comedia y realities",
+            "Contenido educativo para niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            }
+          ]
+        },
+        {
+          "idproducto": 8114,
+          "idproducto_tv": "2333",
+          "nombre": "EXTENDIDO + FAMILIAR MAS",
+          "precio": 708,
+          "precio_obsoleto": 926,
+          "pocentaje_ahorro": "24%",
+          "precio_ahorro": 218,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "889",
+          "canales": "146",
+          "nombre_web": "Paquete Familiar Más",
+          "beneficios": [
+            "Aumenta tu entretenimiento con más canales en livestreaming",
+            "Películas de estreno y exclusivas",
+            "Series originales y shows",
+            "Divertidas caricaturas para los niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            }
+          ]
+        },
+        {
+          "idproducto": 8115,
+          "idproducto_tv": "2333",
+          "nombre": "EXTENDIDO + FAMILIAR INTERNACIONAL",
+          "precio": 778,
+          "precio_obsoleto": 929,
+          "pocentaje_ahorro": "16%",
+          "precio_ahorro": 151,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "2329",
+          "canales": "146",
+          "nombre_web": "Paquete Familiar Internacional",
+          "beneficios": [
+            "Aumenta tu entretenimiento con más canales en livestreaming",
+            "Películas de estreno y exclusivas",
+            "Series originales y shows",
+            "Divertidas caricaturas para los niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ]
+        },
+        {
+          "idproducto": 8113,
+          "idproducto_tv": "2333",
+          "nombre": "EXTENDIDO + ENTRETENIMIENTO",
+          "precio": 888,
+          "precio_obsoleto": 1073,
+          "pocentaje_ahorro": "17%",
+          "precio_ahorro": 185,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "890",
+          "canales": "146",
+          "nombre_web": "Paquete Entretenimiento",
+          "beneficios": [
+            "Aumenta tu entretenimiento con más canales en livestreaming",
+            "Miles de series y películas",
+            "Estrenos exclusivos cada mes",
+            "Contenidos estelares para los niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ]
+        },
+        {
+          "idproducto": 8112,
+          "idproducto_tv": "2333",
+          "nombre": "EXTENDIDO + ENTRETENIMIENTO MAS",
+          "precio": 1088,
+          "precio_obsoleto": 1457,
+          "pocentaje_ahorro": "25%",
+          "precio_ahorro": 369,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "891",
+          "canales": "146",
+          "nombre_web": "Paquete Entretenimiento Más",
+          "beneficios": [
+            "Aumenta tu entretenimiento con más canales en livestreaming",
+            "Películas de estreno",
+            "Las mejores series originales y exclusivas",
+            "Futbol internacional EN VIVO",
+            "Series infantiles para los peques"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 25,
+              "nombreBeneficio": "DAZN",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/DAZN.png"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ]
+        },
+        {
+          "idproducto": 8110,
+          "idproducto_tv": "2333",
+          "nombre": "EXTENDIDO + ENTRETENIMIENTO TOTAL",
+          "precio": 1288,
+          "precio_obsoleto": 1703,
+          "pocentaje_ahorro": "24%",
+          "precio_ahorro": 415,
+          "tipo_producto": "paquetes + tv",
+          "clave_producto": "892",
+          "canales": "146",
+          "nombre_web": "Paquete Entretenimiento Total",
+          "beneficios": [
+            "Aumenta tu entretenimiento con más canales en livestreaming",
+            "Las series que todos quieren ver",
+            "Estrenos y películas sin límites",
+            "Deportes en vivo y en directo",
+            "Diversión y contenido educativo para niños"
+          ],
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 25,
+              "nombreBeneficio": "DAZN",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/DAZN.png"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            },
+            {
+              "idBeneficio": 20,
+              "nombreBeneficio": "Fox Sports",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/fox_sports.png"
+            }
+          ]
+        }
+      ],
+      "paquetes": [
+        {
+          "idproducto": 8110,
+          "nombre": "ENTRETENIMIENTO TOTAL",
+          "descripcion": "",
+          "precio": 899,
+          "precio_obsoleto": 1314,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Paquetes",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/paquetes/pqt_entretenimiento_total.svg",
+          "clases": "AA_footer-pack AA_pack-total col-12 text-center d-flex justify-content-center",
+          "beneficios": "Las series que todos quieren ver;Estrenos y películas sin límites;Deportes en vivo y en directo;Diversión y contenido educativo para niños",
+          "footer": null,
+          "clave_producto": "892",
+          "canales": "59",
+          "nombre_web": "Paquete Entretenimiento Total",
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 25,
+              "nombreBeneficio": "DAZN",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/DAZN.png"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            },
+            {
+              "idBeneficio": 20,
+              "nombreBeneficio": "Fox Sports",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/fox_sports.png"
+            }
+          ],
+          "precio_ahorro": 306,
+          "precio_sin_paramount": 790
+        },
+        {
+          "idproducto": 8111,
+          "nombre": "FAMILIAR",
+          "descripcion": "Diversión para cada miembro de la familia.",
+          "precio": 189,
+          "precio_obsoleto": 383,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Paquetes",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/paquetes/pqt_familiar.svg",
+          "clases": "AA_footer-pack AA_pack-ondesea col-12 d-flex justify-content-center text-center",
+          "beneficios": "Series y películas exclusivas;Shows de comedia y realities;Contenido educativo para niños",
+          "footer": "*Solo para suscriptores Dish",
+          "clave_producto": "888",
+          "canales": "42",
+          "nombre_web": "Paquete Familiar",
+          "productos_beneficios": [
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            }
+          ],
+          "precio_ahorro": 194
+        },
+        {
+          "idproducto": 8112,
+          "nombre": "ENTRETENIMIENTO MAS",
+          "descripcion": "Las plataformas favoritas para ti",
+          "precio": 699,
+          "precio_obsoleto": 1068,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Paquetes",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/paquetes/pqt_entretenimiento_mas.svg",
+          "clases": "AA_footer-pack AA_pack-premium col-12 text-center d-flex justify-content-center",
+          "beneficios": "Películas de estreno;Las mejores series originales y exclusivas;Futbol internacional EN VIVO;Series infantiles para los peques",
+          "footer": null,
+          "clave_producto": "891",
+          "canales": "58",
+          "nombre_web": "Paquete Entretenimiento Más",
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 25,
+              "nombreBeneficio": "DAZN",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/DAZN.png"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ],
+          "precio_ahorro": 260,
+          "precio_sin_paramount": 590
+        },
+        {
+          "idproducto": 8113,
+          "nombre": "ENTRETENIMIENTO",
+          "descripcion": "Nuestra recomendación para divertirte al máximo.",
+          "precio": 499,
+          "precio_obsoleto": 684,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Paquetes",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/paquetes/pqt_entretenimiento.svg",
+          "clases": "AA_footer-pack AA_pack-entre col-12 text-center d-flex justify-content-center",
+          "beneficios": "Miles de series y películas;Estrenos exclusivos cada mes;Contenidos estelares para los niños",
+          "footer": "",
+          "clave_producto": "890",
+          "canales": "56",
+          "nombre_web": "Paquete Entretenimiento",
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 9,
+              "nombreBeneficio": "HBO Max",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+            },
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ],
+          "precio_ahorro": 76,
+          "precio_sin_paramount": 390
+        },
+        {
+          "idproducto": 8114,
+          "nombre": "FAMILIAR MAS",
+          "descripcion": "Miles de contenidos para todos.",
+          "precio": 319,
+          "precio_obsoleto": 537,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Paquetes",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/paquetes/pqt_familiar_mas.svg",
+          "clases": "AA_footer-pack AA_pack-dishd col-12 text-center d-flex justify-content-center",
+          "beneficios": "Películas de estreno y exclusivas;Series originales y shows;Divertidas caricaturas para los niños",
+          "footer": null,
+          "clave_producto": "889",
+          "canales": "47",
+          "nombre_web": "Paquete Familiar Más",
+          "productos_beneficios": [
+            {
+              "idBeneficio": 6,
+              "nombreBeneficio": "Amazon",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+            },
+            {
+              "idBeneficio": 14,
+              "nombreBeneficio": "Edye",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+            },
+            {
+              "idBeneficio": null,
+              "nombreBeneficio": "Baby First",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            }
+          ],
+          "precio_ahorro": 218
+        },
+        {
+          "idproducto": 8115,
+          "nombre": "FAMILIAR INTERNACIONAL",
+          "descripcion": "Miles de contenidos para todos.",
+          "precio": 389,
+          "precio_obsoleto": 540,
+          "status": "Activo",
+          "fecha_registro": "2021-10-17T12:26:36",
+          "tipo_producto": "Paquetes",
+          "imagen": "https://d58ohtx80p2sd.cloudfront.net/dish-plus/img_black/paquetes/pqt_familiar_internacional.jpg",
+          "clases": "AA_footer-pack AA_pack-dishd col-12 text-center d-flex justify-content-center",
+          "beneficios": "Películas de estreno y exclusivas;Series originales y shows;Divertidas caricaturas para los niños",
+          "footer": null,
+          "clave_producto": "2329",
+          "canales": "50",
+          "nombre_web": "Paquete Familiar Internacional",
+          "productos_beneficios": [
+            {
+              "idBeneficio": 10,
+              "nombreBeneficio": "Paramount",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+            },
+            {
+              "idBeneficio": 17,
+              "nombreBeneficio": "Universal",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+            },
+            {
+              "idBeneficio": 19,
+              "nombreBeneficio": "Cindie",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+            },
+            {
+              "idBeneficio": 16,
+              "nombreBeneficio": "Anime",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+            },
+            {
+              "idBeneficio": 24,
+              "nombreBeneficio": "Kanal Drama",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+            },
+            {
+              "idBeneficio": 26,
+              "nombreBeneficio": "A3 Player",
+              "imagenBeneficio": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+            }
+          ],
+          "precio_ahorro": 42,
+          "precio_sin_paramount": 280
+        }
+      ],
+      "adicional": [
+        {
+          "idproducto": 6,
+          "nombre": "Amazon",
+          "descripcion": "Amazon",
+          "precio": 99,
+          "precio_obsoleto": 99,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/prime.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/amazon_prime.jpg",
+          "beneficios": [
+            "La membresía Amazon Prime te da acceso a series y películas sin límites",
+            " envíos GRATIS y rápidos en millones de productos en amazon.com.mx",
+            " 2 millones de canciones sin anuncios y mucho más."
+          ],
+          "footer": null,
+          "clave_producto": "1202",
+          "canales": "",
+          "nombre_web": "Amazon"
+        },
+        {
+          "idproducto": 9,
+          "nombre": "MAX",
+          "descripcion": "MAX",
+          "precio": 179,
+          "precio_obsoleto": 179,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/max.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/hbomax.jpg",
+          "beneficios": [
+            "MAX es la plataforma de streaming que tiene contenido pensado para cada miembro de la familia. Con series, realities, películas, documentales, contenidos para niños y deportes en vivo. MAX es entretenimiento de calidad donde, como y cuando quieras."
+          ],
+          "footer": null,
+          "clave_producto": "1203",
+          "canales": "",
+          "nombre_web": "MAX"
+        },
+        {
+          "idproducto": 10,
+          "nombre": "Paramount",
+          "descripcion": "Paramount",
+          "precio": 109,
+          "precio_obsoleto": 109,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/Paramount.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/paramount.jpg",
+          "beneficios": [
+            "Paramount+ es una montaña de entretenimiento con historias únicas, estrellas icónicas y programas exclusivos que no encontrarás en ningún otro lugar. Desde películas taquilleras y series reconocidas de tus personajes favoritos."
+          ],
+          "footer": "Pídelo ahora y recibes 30 días gratis.",
+          "clave_producto": "1206",
+          "canales": "",
+          "nombre_web": "Paramount"
+        },
+        {
+          "idproducto": 13,
+          "nombre": "Hot Go",
+          "descripcion": "Hot Go",
+          "precio": 139,
+          "precio_obsoleto": 139,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/hotgo.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/hotgo.jpg",
+          "beneficios": [
+            "Disfruta de material exclusivo de las productoras más importantes de entretenimiento para adultos. El mejor contenido con los talentos más sexies y la mayor variedad de contenido para adultos, en un solo lugar de forma segura y privada, con calidad HD"
+          ],
+          "footer": null,
+          "clave_producto": "908",
+          "canales": "",
+          "nombre_web": "Hotgo"
+        },
+        {
+          "idproducto": 14,
+          "nombre": "Edye",
+          "descripcion": "Edye",
+          "precio": 57,
+          "precio_obsoleto": 57,
+          "status": "Activo",
+          "fecha_registro": "2021-06-07T12:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/edye.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/edye.jpg",
+          "beneficios": [
+            "EDYE ofrece contenido educativo y divertido para que los niños aprendan junto a sus personajes favoritos a toda hora y en todo lugar. Es un espacio seguro, con contenidos de la más alta calidad, diseñado especialmente por expertos en educación preescolar."
+          ],
+          "footer": null,
+          "clave_producto": "1208",
+          "canales": "",
+          "nombre_web": "Edye"
+        },
+        {
+          "idproducto": 15,
+          "nombre": "ESENCIAL",
+          "descripcion": "ESENCIAL",
+          "precio": 239,
+          "precio_obsoleto": 239,
+          "status": "Activo",
+          "fecha_registro": "2022-04-28T10:27:00",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/edye.svg",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/logos/edye.svg",
+          "beneficios": [
+            "Tu entretenimiento en livestreaming"
+          ],
+          "footer": "80 canales en vivo para disfrutar hasta 7 días después",
+          "clave_producto": "1707",
+          "canales": "100",
+          "nombre_web": "ESENCIAL"
+        },
+        {
+          "idproducto": 16,
+          "nombre": "Anime Onegai",
+          "descripcion": "Anime Onegai",
+          "precio": 55,
+          "precio_obsoleto": 55,
+          "status": "Activo",
+          "fecha_registro": "2021-10-17T12:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/anime-onegai.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/anime%20_negai.jpg",
+          "beneficios": [
+            "Encuentra grandes series de anime para Latinoamérica con doblaje latino, con títulos como Dragon Quest: The adventure of Dai, Tears to Tiara y muchos más, así como episodios estreno todas las semanas."
+          ],
+          "footer": null,
+          "clave_producto": "2324",
+          "canales": "",
+          "nombre_web": "Anime Onegai"
+        },
+        {
+          "idproducto": 17,
+          "nombre": "Universal",
+          "descripcion": "Universal",
+          "precio": 149,
+          "precio_obsoleto": 149,
+          "status": "Activo",
+          "fecha_registro": "2021-10-17T12:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/universal.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/universal.jpg",
+          "beneficios": [
+            "Cinco canales premium y contenido On Demand con franquicias exitosas como el imperio de Dick Wolf, estrenos exclusivos como The Voice y películas que amarás mirar en todas tus pantallas."
+          ],
+          "footer": null,
+          "clave_producto": "2331",
+          "canales": "",
+          "nombre_web": "Universal"
+        },
+        {
+          "idproducto": 19,
+          "nombre": "Cindie",
+          "descripcion": "Cindie",
+          "precio": 49,
+          "precio_obsoleto": 49,
+          "status": "Activo",
+          "fecha_registro": "2021-10-17T12:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/cindie.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/cindie.jpg",
+          "beneficios": [
+            "Películas imperdibles, emocionantes, aterradoras, divertidas y conmovedoras, con estrellas de la pantalla y talentos en ascenso, elegidas por expertos del cine para los fanáticos del cine."
+          ],
+          "footer": null,
+          "clave_producto": "2326",
+          "canales": "",
+          "nombre_web": "Cindie"
+        },
+        {
+          "idproducto": 20,
+          "nombre": "Fox Sports",
+          "descripcion": "Fox Sports",
+          "precio": 140,
+          "precio_obsoleto": 140,
+          "status": "Activo",
+          "fecha_registro": "2023-05-26T10:02:15",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/fox_sports.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/fox_sports.jpg",
+          "beneficios": [
+            "<span class=\"rojo\">Disfruta de las 4 señales:</span><br>FOX SPORTS, FOX SPORTS 2, FOX SPORTS 3 y FOX SPORTS PREMIUM con eventos y contenidos exclusivos como la WWE, UFC, Fórmula 1, Liga MX, NFL y mucho más…<br>¡En todos tus dispositivos!"
+          ],
+          "footer": null,
+          "clave_producto": "2461",
+          "canales": "",
+          "nombre_web": "Fox Sports"
+        },
+        {
+          "idproducto": 21,
+          "nombre": "Picardia",
+          "descripcion": "Picardía Nacional",
+          "precio": 45,
+          "precio_obsoleto": 45,
+          "status": "Activo",
+          "fecha_registro": "2023-06-12T09:10:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/picardia.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/plataformas/img_principal/picardia_mexicana.jpg",
+          "beneficios": [
+            "<h4>El cine popular mexicano en formato digital:</h4><p>Sexy-comedias y éxitos de los 80’s y 90’s, además de una basta colección de reciente producción y estrenos mensuales ¡y por si fuera poco: lo mejor de la música grupera, jaripeo y entrevistas exclusivas! Todo en un solo lugar.</p>"
+          ],
+          "footer": null,
+          "clave_producto": "2462",
+          "canales": "",
+          "nombre_web": "Picardía Nacional"
+        },
+        {
+          "idproducto": 22,
+          "nombre": "Extendido",
+          "descripcion": "Extendido",
+          "precio": 389,
+          "precio_obsoleto": 389,
+          "status": "Activo",
+          "fecha_registro": "2023-06-12T09:20:10",
+          "tipo_producto": "Adicional",
+          "imagen": null,
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/paquetes/paquete_extendido.jpg",
+          "beneficios": [
+            "Aumenta tu entretenimiento con más canales en livestreaming"
+          ],
+          "footer": "ReplayTV: los programas de tus canales de TV de paga para que los disfrutes sin restricciones de horario. Repite, pausa y regresa en todas tus pantallas.",
+          "clave_producto": "2333",
+          "canales": "146",
+          "nombre_web": "Extendido"
+        },
+        {
+          "idproducto": 24,
+          "nombre": "Kanal Drama",
+          "descripcion": "Kanal D Drama",
+          "precio": 79,
+          "precio_obsoleto": 79,
+          "status": "Activo",
+          "fecha_registro": "2023-10-18T07:26:36",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/kanald.png",
+          "clases": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp",
+          "beneficios": null,
+          "footer": null,
+          "clave_producto": "2466",
+          "canales": "",
+          "nombre_web": "Kanal D Drama"
+        },
+        {
+          "idproducto": 25,
+          "nombre": "DAZN",
+          "descripcion": "Dazn",
+          "precio": 250,
+          "precio_obsoleto": 250,
+          "status": "Activo",
+          "fecha_registro": "2024-06-14T19:19:19",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/dazn.png",
+          "clases": null,
+          "beneficios": null,
+          "footer": null,
+          "clave_producto": "2983",
+          "canales": "",
+          "nombre_web": "Dazn"
+        },
+        {
+          "idproducto": 26,
+          "nombre": "A3 Player",
+          "descripcion": "A3 Player",
+          "precio": 99,
+          "precio_obsoleto": 99,
+          "status": "Activo",
+          "fecha_registro": "2024-06-27T12:41:19",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/mails/Plataformas/atresplayer.png",
+          "clases": null,
+          "beneficios": null,
+          "footer": null,
+          "clave_producto": "2984",
+          "canales": "",
+          "nombre_web": "A3 Player"
+        },
+        {
+          "idproducto": 27,
+          "nombre": "NFL Pass Anual",
+          "descripcion": "NFL Annual",
+          "precio": 2700,
+          "precio_obsoleto": 2700,
+          "status": "Activo",
+          "fecha_registro": "2024-09-03T19:19:19",
+          "tipo_producto": "Adicional",
+          "imagen": "",
+          "clases": null,
+          "beneficios": null,
+          "footer": null,
+          "clave_producto": "3146",
+          "canales": "",
+          "nombre_web": "NFL Pass Anual"
+        },
+        {
+          "idproducto": 28,
+          "nombre": "NFL Pass Semanal",
+          "descripcion": "NFL Weekly",
+          "precio": 330,
+          "precio_obsoleto": 330,
+          "status": "Activo",
+          "fecha_registro": "2024-09-03T19:19:19",
+          "tipo_producto": "Adicional",
+          "imagen": "",
+          "clases": null,
+          "beneficios": null,
+          "footer": null,
+          "clave_producto": "3145",
+          "canales": "",
+          "nombre_web": "NFL Pass Semanal"
+        },
+        {
+          "idproducto": 29,
+          "nombre": "NFL Pass",
+          "descripcion": "NFL Pass",
+          "precio": 0,
+          "precio_obsoleto": 0,
+          "status": "Activo",
+          "fecha_registro": "2024-09-03T19:19:19",
+          "tipo_producto": "Adicional",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/gamepass.webp",
+          "clases": null,
+          "beneficios": null,
+          "footer": null,
+          "clave_producto": "0000",
+          "canales": "",
+          "nombre_web": "NFL Pass"
+        }
+      ],
+      "streaming": [],
+      "freeviews": [
+        {
+          "NAME": "FREEVIEW PARAMOUNT+",
+          "PART_NUM": "Paramount"
+        }
+      ],
+      "productos_thank_you_page": [
+        {
+          "nombre_producto": "Amazon",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/prime_video.svg"
+        },
+        {
+          "nombre_producto": "HBO Max",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/hbomax.svg"
+        },
+        {
+          "nombre_producto": "Paramount",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/paramountplus.svg"
+        },
+        {
+          "nombre_producto": "Edye",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/edye.svg"
+        },
+        {
+          "nombre_producto": "Netflix Premium",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/netflix.svg"
+        },
+        {
+          "nombre_producto": "Baby First",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/babyfirts.svg"
+        },
+        {
+          "nombre_producto": "Universal",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/universal.png"
+        },
+        {
+          "nombre_producto": "Cindie",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/cindie.svg"
+        },
+        {
+          "nombre_producto": "Anime",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/anime_anegai.svg"
+        },
+        {
+          "nombre_producto": "Europa",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/europa_plus.png"
+        },
+        {
+          "nombre_producto": "Kanal Drama",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/logokdrama.webp"
+        },
+        {
+          "nombre_producto": "DAZN",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/DAZN.png"
+        },
+        {
+          "nombre_producto": "A3 Player",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/A3.png"
+        },
+        {
+          "nombre_producto": "Fox Sports",
+          "imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/plataformas/img/fox_sports.png"
+        }
+      ],
+      "num_canales_migrados": "22",
+      "descuento_paquete": [
+        {
+          "ID": 1,
+          "DESCRIPCION": "DESCUENTO HOT GO",
+          "PORCENTAJE": 50,
+          "MONTO": 0,
+          "FECHA_INICIO": "2023-03-01",
+          "FECHA_FIN": "2025-01-09",
+          "PROGRAMACION": "31",
+          "TIPO_DESCUENTO": "Producto",
+          "USO_UNICO": 0,
+          "COMPATIBILIDAD": [
+            8110,
+            8112,
+            8113
+          ],
+          "NOMBRE_PRODUCTO_SIEBEL": "PROMO_HOT_GO_PREPAGO",
+          "FECHA_CREACION": "2023-12-01",
+          "FECHA_ACTUALIZACION": "2025-01-01",
+          "id_producto": 13,
+          "descripcion_front": "Obtén 50% de descuento al combinarlo con cualquier paquete de Entretenimiento",
+          "logo_imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/thankyoupage/hotgo.webp",
+          "background_imagen": "https://d31nz91qboyide.cloudfront.net/mvshub/thankyoupage/hotgo_promo.webp"
+        }
+      ],
+      "descuentosVigentes": []
+    }
+  }

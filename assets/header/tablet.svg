@@ -1,0 +1,22 @@
+<svg id="Grupo_32869" data-name="Grupo 32869" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42.142" height="57.371" viewBox="0 0 42.142 57.371">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f66f1b"/>
+      <stop offset="1" stop-color="#f89405"/>
+    </linearGradient>
+    <filter id="Elipse_366" x="0" y="0" width="42.142" height="44.142" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.537"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_32597" data-name="Grupo 32597" transform="translate(0)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Elipse_366)">
+      <ellipse id="Elipse_366-2" data-name="Elipse 366" cx="21.071" cy="21.071" rx="21.071" ry="21.071" transform="translate(0)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="tablet" d="M21.274,2.238A2.239,2.239,0,0,0,19.036,0H2.238A2.239,2.239,0,0,0,0,2.238V27.864A2.239,2.239,0,0,0,2.238,30.1h16.8a2.239,2.239,0,0,0,2.238-2.238V2.238ZM10.608,1.349a.344.344,0,1,1-.344.344A.344.344,0,0,1,10.608,1.349Zm.057,27.81a1.113,1.113,0,1,1,1.113-1.113,1.113,1.113,0,0,1-1.113,1.113Zm8.8-2.906H1.811V3.395H19.463Z" transform="translate(10.404 6.807)" fill="#512e98"/>
+  </g>
+  <text id="TABLET-2" data-name="TABLET" transform="translate(19.028 55.371)" fill="#fff" font-size="9" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-16" y="0">TABLET</tspan></text>
+</svg>

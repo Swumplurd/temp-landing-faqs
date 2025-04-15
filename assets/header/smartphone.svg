@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.821" height="57.371" viewBox="0 0 43.821 57.371">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f66f1b"/>
+      <stop offset="1" stop-color="#f89405"/>
+    </linearGradient>
+    <filter id="Elipse_359" x="1.68" y="0" width="42.142" height="44.142" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.537"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_32868" data-name="Grupo 32868" transform="translate(1)">
+    <g id="Grupo_32598" data-name="Grupo 32598" transform="translate(0.68)">
+      <g transform="matrix(1, 0, 0, 1, -1.68, 0)" filter="url(#Elipse_359)">
+        <ellipse id="Elipse_359-2" data-name="Elipse 359" cx="21.071" cy="21.071" rx="21.071" ry="21.071" transform="translate(1.68)" fill="url(#linear-gradient)"/>
+      </g>
+      <path id="celular" d="M15.013,0H2.061A1.915,1.915,0,0,0,0,2.061V29.047a1.915,1.915,0,0,0,2.061,2.061H15.013a1.915,1.915,0,0,0,2.061-2.061V2.061A1.915,1.915,0,0,0,15.013,0ZM7.178,1.4H9.985c.323,0,.585.11.585.351s-.262.351-.585.351H7.178c-.323,0-.585-.11-.585-.351s.262-.351.585-.351Zm1.4,28.731a1.151,1.151,0,1,1,1.151-1.151A1.15,1.15,0,0,1,8.581,30.134ZM15.2,26.9H1.871V3.274H15.2Z" transform="translate(12.681 5.764)" fill="#512e98"/>
+    </g>
+    <text id="CELULAR-2" data-name="CELULAR" transform="translate(19 55.371)" fill="#fff" font-size="9" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-19" y="0">CELULAR</tspan></text>
+  </g>
+</svg>

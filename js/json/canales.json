@@ -1,0 +1,1157 @@
+[
+  {
+    "canal": "¡HOLA! TV",
+    "canalEsencial": 264,
+    "canalExtendido": 385,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/hola_tv.webp",
+    "carousel": true
+  },
+  {
+    "canal": "a más",
+    "canalEsencial": 257,
+    "canalExtendido": 724,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/amas.webp",
+    "carousel": false
+  },
+  {
+    "canal": "A&E HD",
+    "canalEsencial": null,
+    "canalExtendido": 812,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/a_e.webp",
+    "carousel": false
+  },
+  {
+    "canal": "A3 Cine HD",
+    "canalEsencial": null,
+    "canalExtendido": 741,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/a3cine.webp",
+    "carousel": false
+  },
+  {
+    "canal": "A3 series HD",
+    "canalEsencial": null,
+    "canalExtendido": 742,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/A3_series_logo.webp",
+    "carousel": false
+  },
+  {
+    "canal": "ADN 40",
+    "canalEsencial": 140,
+    "canalExtendido": 967,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/adn_40.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Agrotendencia",
+    "canalEsencial": null,
+    "canalExtendido": 941,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/agrotendencia_tv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Agrotendencias",
+    "canalEsencial": 941,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/agrotendencia_tv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "AMC",
+    "canalEsencial": 210,
+    "canalExtendido": 561,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/amc.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Animal Planet",
+    "canalEsencial": 403,
+    "canalExtendido": 562,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/animal_planet.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Anime Onegai",
+    "canalEsencial": null,
+    "canalExtendido": 706,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/anime_onegai.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Antena 3 Internacional",
+    "canalEsencial": 276,
+    "canalExtendido": 383,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/Antena_3.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Arirang TV",
+    "canalEsencial": 286,
+    "canalExtendido": 309,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/arirang.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Arrow channel",
+    "canalEsencial": null,
+    "canalExtendido": 1062,
+    "url": "",
+    "carousel": false
+  },
+  {
+    "canal": "AXN HD",
+    "canalEsencial": null,
+    "canalExtendido": 813,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/axn.webp",
+    "carousel": false
+  },
+  {
+    "canal": "AyM Sports",
+    "canalEsencial": 729,
+    "canalExtendido": 729,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/aym_sports.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Azteca 7",
+    "canalEsencial": 968,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/azteca_7.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Azteca 7 HD",
+    "canalEsencial": null,
+    "canalExtendido": 968,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/azteca_7.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Azteca Deportes",
+    "canalEsencial": 981,
+    "canalExtendido": 981,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/azteca_deportes.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Azteca Internacional",
+    "canalEsencial": 274,
+    "canalExtendido": 882,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/azteca_int.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Azteca Uno",
+    "canalEsencial": 969,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/azteca_uno.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Azteca Uno HD",
+    "canalEsencial": null,
+    "canalExtendido": 969,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/azteca_uno.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Baby Tv",
+    "canalEsencial": 373,
+    "canalExtendido": 614,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/babytv.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Baby1",
+    "canalEsencial": 371,
+    "canalExtendido": 504,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/babyfirts.webp",
+    "carousel": false
+  },
+  {
+    "canal": "BBC World News (Latin America) HD",
+    "canalEsencial": null,
+    "canalExtendido": 745,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/bbc_world_news.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Bloomberg TV HD",
+    "canalEsencial": null,
+    "canalExtendido": 881,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/bloomberg_television.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Canal 24H",
+    "canalEsencial": null,
+    "canalExtendido": 970,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/24h.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Canal ESNE",
+    "canalEsencial": 431,
+    "canalExtendido": 387,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/esne.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Canal Sony",
+    "canalEsencial": 206,
+    "canalExtendido": 613,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/sony.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Caracol Internacional HD",
+    "canalEsencial": null,
+    "canalExtendido": 761,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/caracol.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Cartoon Network",
+    "canalEsencial": 361,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/cartoon_network.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Cartoon Network HD",
+    "canalEsencial": null,
+    "canalExtendido": 563,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/cartoon_network.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Cartoonito",
+    "canalEsencial": null,
+    "canalExtendido": 823,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/cartoonito.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Cindie Lite",
+    "canalEsencial": 812,
+    "canalExtendido": 1021,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/Cindie_Lite_logo.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Cine Estelar",
+    "canalEsencial": null,
+    "canalExtendido": 962,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/cine_estelar.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Cine Latino HD",
+    "canalEsencial": 718,
+    "canalExtendido": 209,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/cine_latino.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Cine Nostalgia",
+    "canalEsencial": null,
+    "canalExtendido": 961,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/cine_nostalgia.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Cinecanal",
+    "canalEsencial": 708,
+    "canalExtendido": 564,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/cinecannal.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Cinema",
+    "canalEsencial": 724,
+    "canalExtendido": 945,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/cinema.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Cinemax",
+    "canalEsencial": 704,
+    "canalExtendido": 565,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/cinemax.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Clan Tv",
+    "canalEsencial": null,
+    "canalExtendido": 965,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/clan.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Claro Cinema",
+    "canalEsencial": 885,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/claro_cinema.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Claro Cinema HD",
+    "canalEsencial": null,
+    "canalExtendido": 885,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/claro_cinema.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Claro Sports",
+    "canalEsencial": 510,
+    "canalExtendido": 747,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/claro_sports.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Classic Arts Showcase",
+    "canalEsencial": 420,
+    "canalExtendido": 384,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/arts.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Clic",
+    "canalEsencial": 256,
+    "canalExtendido": 943,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/clic.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Club MTV",
+    "canalEsencial": null,
+    "canalExtendido": 822,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/club_mtv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "CNN en Español",
+    "canalEsencial": 606,
+    "canalExtendido": 566,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/cnn_espanol.webp",
+    "carousel": true
+  },
+  {
+    "canal": "CNNI Latin America",
+    "canalEsencial": null,
+    "canalExtendido": 842,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/cnn_internacional.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Comedy Central",
+    "canalEsencial": 294,
+    "canalExtendido": 208,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/comedy_central.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Corazón",
+    "canalEsencial": 232,
+    "canalExtendido": 212,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/corazon.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Curiosity Stream",
+    "canalEsencial": null,
+    "canalExtendido": 801,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/curiosity_stream.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Dazn Combat",
+    "canalEsencial": 737,
+    "canalExtendido": 1081,
+    "url": "",
+    "carousel": false
+  },
+  {
+    "canal": "DHE HD",
+    "canalEsencial": null,
+    "canalExtendido": 802,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/dhe.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Discovery Channel",
+    "canalEsencial": 400,
+    "canalExtendido": 567,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/discovery_kids.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Discovery Home & Health",
+    "canalEsencial": 244,
+    "canalExtendido": 568,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/home_health.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Discovery Kids",
+    "canalEsencial": null,
+    "canalExtendido": 730,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/discovery_kids.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Discovery Science",
+    "canalEsencial": null,
+    "canalExtendido": 726,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/discovery_science.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Discovery Theater HD",
+    "canalEsencial": null,
+    "canalExtendido": 722,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/discovery_theater.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Discovery Turbo",
+    "canalEsencial": 500,
+    "canalExtendido": 570,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/discovery.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Discovery World",
+    "canalEsencial": null,
+    "canalExtendido": 731,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/dis_world.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Disney Channel",
+    "canalEsencial": 356,
+    "canalExtendido": 571,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/disney_channel.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Disney Junior",
+    "canalEsencial": 357,
+    "canalExtendido": 579,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/disney_junior.webp",
+    "carousel": true
+  },
+  {
+    "canal": "DocuBox HD",
+    "canalEsencial": null,
+    "canalExtendido": 762,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/docubox.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Dreamworks",
+    "canalEsencial": 209,
+    "canalExtendido": 982,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/dreamworks.webp",
+    "carousel": true
+  },
+  {
+    "canal": "E! Entertainment TV",
+    "canalEsencial": 266,
+    "canalExtendido": 580,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/e!_entertainment.webp",
+    "carousel": true
+  },
+  {
+    "canal": "El Gourmet",
+    "canalEsencial": 258,
+    "canalExtendido": 609,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/el_gourmet.webp",
+    "carousel": true
+  },
+  {
+    "canal": "ESPN",
+    "canalEsencial": 515,
+    "canalExtendido": 581,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/espn.webp",
+    "carousel": true
+  },
+  {
+    "canal": "ESPN 2",
+    "canalEsencial": 516,
+    "canalExtendido": 573,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/espn_2.webp",
+    "carousel": true
+  },
+  {
+    "canal": "ESPN EXTRA",
+    "canalEsencial": 518,
+    "canalExtendido": 575,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/espn_extra.webp",
+    "carousel": false
+  },
+  {
+    "canal": "ESPN Tres North",
+    "canalEsencial": 517,
+    "canalExtendido": 574,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/espn_nort.webp",
+    "carousel": true
+  },
+  {
+    "canal": "ESTV",
+    "canalEsencial": null,
+    "canalExtendido": 0,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/estv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Euronews English",
+    "canalEsencial": null,
+    "canalExtendido": 0,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/euronews_english.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Euronews Español",
+    "canalEsencial": null,
+    "canalExtendido": 0,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/euronews_espanol.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Europa Europa",
+    "canalEsencial": 278,
+    "canalExtendido": 610,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/europa_europa.webp",
+    "carousel": false
+  },
+  {
+    "canal": "EXA TV",
+    "canalEsencial": 302,
+    "canalExtendido": 211,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/exa_tv.webp",
+    "carousel": true
+  },
+  {
+    "canal": "FashionBox",
+    "canalEsencial": null,
+    "canalExtendido": 763,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/fashion_box.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Fastnfunbox HD",
+    "canalEsencial": null,
+    "canalExtendido": 767,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/fast_&_fun_box.webp",
+    "carousel": false
+  },
+  {
+    "canal": "FightBox HD",
+    "canalEsencial": null,
+    "canalExtendido": 768,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/fightbox.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Film & Arts",
+    "canalEsencial": 730,
+    "canalExtendido": 582,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/film_and_arts.webp",
+    "carousel": false
+  },
+  {
+    "canal": "FilmBox Arthouse",
+    "canalEsencial": null,
+    "canalExtendido": 805,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/filmbox_arthouse.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Filmex",
+    "canalEsencial": 922,
+    "canalExtendido": 942,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/FIMEX.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Filmex Clasico",
+    "canalEsencial": null,
+    "canalExtendido": 944,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/filmex_clasico.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Filmex Clásico",
+    "canalEsencial": 944,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/filmex_clasico.webp",
+    "carousel": false
+  },
+  {
+    "canal": "FILMEX DOCUMENTALES",
+    "canalEsencial": 942,
+    "canalExtendido": 922,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/filmex_documentales.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Fix&Foxi HD",
+    "canalEsencial": null,
+    "canalExtendido": 809,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/fix_&_foxi.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Food Network",
+    "canalEsencial": null,
+    "canalExtendido": 727,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/food_network.webp",
+    "carousel": false
+  },
+  {
+    "canal": "France 24",
+    "canalEsencial": 613,
+    "canalExtendido": 642,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/france_24.webp",
+    "carousel": true
+  },
+  {
+    "canal": "France 24 English",
+    "canalEsencial": 615,
+    "canalExtendido": 641,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/france_24_english.webp",
+    "carousel": false
+  },
+  {
+    "canal": "France 24 Español",
+    "canalEsencial": 614,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/france_24_espanol.webp",
+    "carousel": false
+  },
+  {
+    "canal": "France 24 Español SD",
+    "canalEsencial": null,
+    "canalExtendido": 645,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/france_24_espanol.webp",
+    "carousel": false
+  },
+  {
+    "canal": "FUEL TV",
+    "canalEsencial": null,
+    "canalExtendido": 764,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/fuel_tv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "FX",
+    "canalEsencial": 214,
+    "canalExtendido": 577,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/fx.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Gametoon HD",
+    "canalEsencial": null,
+    "canalExtendido": 746,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/gametoon_hd.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Ginx TV International",
+    "canalEsencial": null,
+    "canalExtendido": 804,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/ginx_esports_tv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "HGTV",
+    "canalEsencial": null,
+    "canalExtendido": 728,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/hgtv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "History",
+    "canalEsencial": 409,
+    "canalExtendido": 578,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/history.webp",
+    "carousel": true
+  },
+  {
+    "canal": "History 2",
+    "canalEsencial": null,
+    "canalExtendido": 811,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/history_2.webp",
+    "carousel": false
+  },
+  {
+    "canal": "HTV",
+    "canalEsencial": null,
+    "canalExtendido": 723,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/htv_logo.webp",
+    "carousel": false
+  },
+  {
+    "canal": "ID",
+    "canalEsencial": null,
+    "canalExtendido": 569,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/investigation_discovery.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Investigation Discovery",
+    "canalEsencial": 254,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/investigation_discovery.webp",
+    "carousel": false
+  },
+  {
+    "canal": "ISAT SD",
+    "canalEsencial": null,
+    "canalExtendido": 815,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/isat.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Jesus Christ Network",
+    "canalEsencial": 429,
+    "canalExtendido": 308,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/jesus_christ.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Kanal D Drama",
+    "canalEsencial": null,
+    "canalExtendido": 238,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/kanal_d_drama.webp",
+    "carousel": false
+  },
+  {
+    "canal": "La Mejor TV",
+    "canalEsencial": 312,
+    "canalExtendido": null,
+    "url": "",
+    "carousel": false
+  },
+  {
+    "canal": "Latin Angels",
+    "canalEsencial": null,
+    "canalExtendido": 808,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/laltin_angels.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Lifetime",
+    "canalEsencial": 222,
+    "canalExtendido": 607,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/lifetime.webp",
+    "carousel": false
+  },
+  {
+    "canal": "María Visión Italia",
+    "canalEsencial": 427,
+    "canalExtendido": 307,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/maria_vision_italia.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Mariavision",
+    "canalEsencial": 426,
+    "canalExtendido": 306,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/maria_vision.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Mas Chic",
+    "canalEsencial": 260,
+    "canalExtendido": 647,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/mas_chic.webp",
+    "carousel": false
+  },
+  {
+    "canal": "MC",
+    "canalEsencial": 702,
+    "canalExtendido": 213,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/mc.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Mexiquense TV",
+    "canalEsencial": null,
+    "canalExtendido": 765,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/mexiquense.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Milenio HD",
+    "canalEsencial": null,
+    "canalExtendido": 214,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/milenio_tv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Milenio TV",
+    "canalEsencial": 600,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/milenio_tv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Moto ADV TV HD",
+    "canalEsencial": null,
+    "canalExtendido": 806,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/moto_adv_tv_channel.webp",
+    "carousel": false
+  },
+  {
+    "canal": "MTV",
+    "canalEsencial": 300,
+    "canalExtendido": 215,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/mtv.webp",
+    "carousel": true
+  },
+  {
+    "canal": "MTV 00s",
+    "canalEsencial": 305,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/mtv_00s.webp",
+    "carousel": false
+  },
+  {
+    "canal": "MTV 80s",
+    "canalEsencial": null,
+    "canalExtendido": 821,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/mtv_80%E2%80%99s.webp",
+    "carousel": false
+  },
+  {
+    "canal": "MTV Hits Latin America",
+    "canalEsencial": 304,
+    "canalExtendido": 206,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/mtvhits.webp",
+    "carousel": false
+  },
+  {
+    "canal": "MTV00S",
+    "canalEsencial": null,
+    "canalExtendido": 544,
+    "url": "",
+    "carousel": false
+  },
+  {
+    "canal": "Multimedios",
+    "canalEsencial": 783,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/Canal_6_logo.webp",
+    "carousel": false
+  },
+  {
+    "canal": "MULTIMEDIOS TV HD",
+    "canalEsencial": null,
+    "canalExtendido": 783,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/Canal_6_logo.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Multipremier",
+    "canalEsencial": 706,
+    "canalExtendido": 216,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/multipremiere.webp",
+    "carousel": false
+  },
+  {
+    "canal": "MVS TV (Dish)",
+    "canalEsencial": 202,
+    "canalExtendido": 222,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/mvs_tv.webp",
+    "carousel": true
+  },
+  {
+    "canal": "National Geographic",
+    "canalEsencial": 407,
+    "canalExtendido": 646,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/national_geographic.webp",
+    "carousel": true
+  },
+  {
+    "canal": "NBA TV International (Spanish) HD",
+    "canalEsencial": null,
+    "canalExtendido": 983,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/nba_tv.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Nick Jr.",
+    "canalEsencial": 367,
+    "canalExtendido": 542,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/nick_jr.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Nickelodeon",
+    "canalEsencial": 359,
+    "canalExtendido": 541,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/nickelodeon.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Novelisima",
+    "canalEsencial": null,
+    "canalExtendido": 736,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/novelisima.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Outdoor Channel",
+    "canalEsencial": null,
+    "canalExtendido": 721,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/outdoor_channel.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Paramount Network",
+    "canalEsencial": 712,
+    "canalExtendido": 543,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/paramount.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Pasiones",
+    "canalEsencial": 841,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/pasiones.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Pasiones HD",
+    "canalEsencial": null,
+    "canalExtendido": 841,
+    "url": "",
+    "carousel": false
+  },
+  {
+    "canal": "PX Sports HD",
+    "canalEsencial": null,
+    "canalExtendido": 743,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/px_sports.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Show Business TV HD",
+    "canalEsencial": null,
+    "canalExtendido": 807,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/show_business_tv.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Space",
+    "canalEsencial": 216,
+    "canalExtendido": 602,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/space.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Star Channel",
+    "canalEsencial": 200,
+    "canalExtendido": 604,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/star_channel.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Star TVE",
+    "canalEsencial": null,
+    "canalExtendido": 964,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/star_tve.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Studio Universal",
+    "canalEsencial": 710,
+    "canalExtendido": 605,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/studio_universall.webp",
+    "carousel": true
+  },
+  {
+    "canal": "SYFY/USA",
+    "canalEsencial": null,
+    "canalExtendido": 611,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/syfy.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Teleformula",
+    "canalEsencial": 738,
+    "canalExtendido": 738,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/teleformula.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Telemundo",
+    "canalEsencial": 234,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/telemundo.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Telemundo HD",
+    "canalEsencial": null,
+    "canalExtendido": 886,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/telemundo.webp",
+    "carousel": false
+  },
+  {
+    "canal": "The Golf Channel Latinoamerica",
+    "canalEsencial": null,
+    "canalExtendido": 725,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/golf_channel.webp",
+    "carousel": true
+  },
+  {
+    "canal": "TLC",
+    "canalEsencial": null,
+    "canalExtendido": 608,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/tlc.webp",
+    "carousel": false
+  },
+  {
+    "canal": "TNT",
+    "canalEsencial": 700,
+    "canalExtendido": 601,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/tnt.webp",
+    "carousel": true
+  },
+  {
+    "canal": "TNT Novelas",
+    "canalEsencial": 292,
+    "canalExtendido": 606,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/tnt_novelas.webp",
+    "carousel": false
+  },
+  {
+    "canal": "TNT Series",
+    "canalEsencial": 228,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/tnt_series.webp",
+    "carousel": false
+  },
+  {
+    "canal": "TNT Series HD",
+    "canalEsencial": null,
+    "canalExtendido": 603,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/tnt_series.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Trace Latina",
+    "canalEsencial": 742,
+    "canalExtendido": 1084,
+    "url": "",
+    "carousel": false
+  },
+  {
+    "canal": "Trace Sports Stars International HD",
+    "canalEsencial": null,
+    "canalExtendido": 744,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/trace_sports.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Trace Urban",
+    "canalEsencial": 802,
+    "canalExtendido": 1083,
+    "url": "",
+    "carousel": false
+  },
+  {
+    "canal": "Travel and Living Channel",
+    "canalEsencial": 252,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/tlc.webp",
+    "carousel": true
+  },
+  {
+    "canal": "TV5 Monde HD",
+    "canalEsencial": null,
+    "canalExtendido": 766,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/tv5_monde.webp",
+    "carousel": false
+  },
+  {
+    "canal": "TVC Deportes",
+    "canalEsencial": null,
+    "canalExtendido": 782,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/tvc_deportes.webp",
+    "carousel": false
+  },
+  {
+    "canal": "TVCortos",
+    "canalEsencial": null,
+    "canalExtendido": 814,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/tv_cortos.webp",
+    "carousel": false
+  },
+  {
+    "canal": "TVE",
+    "canalEsencial": null,
+    "canalExtendido": 963,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/tve.webp",
+    "carousel": true
+  },
+  {
+    "canal": "TyC Sports International",
+    "canalEsencial": null,
+    "canalExtendido": 748,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/tyc_sports.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Universal TV",
+    "canalEsencial": 204,
+    "canalExtendido": 612,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/universal.webp",
+    "carousel": true
+  },
+  {
+    "canal": "USA",
+    "canalEsencial": 218,
+    "canalExtendido": null,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/USA_logo.webp",
+    "carousel": true
+  },
+  {
+    "canal": "Ve Plus HD Latam",
+    "canalEsencial": null,
+    "canalExtendido": 735,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/veplus.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Video Rola",
+    "canalEsencial": null,
+    "canalExtendido": 781,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/video_rola.webp",
+    "carousel": false
+  },
+  {
+    "canal": "Warner Channel",
+    "canalEsencial": 208,
+    "canalExtendido": 622,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteEsencial/logo_canal/wb.webp",
+    "carousel": true
+  },
+  {
+    "canal": "World Fishing Network HD (US)",
+    "canalEsencial": null,
+    "canalExtendido": 734,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/world_fishing_network.webp",
+    "carousel": false
+  },
+  {
+    "canal": "World of Business Ideas",
+    "canalEsencial": null,
+    "canalExtendido": 803,
+    "url": "https://d31nz91qboyide.cloudfront.net/mvshub/modales/paqueteExtendido/logo_canal/wobi.webp",
+    "carousel": true
+  }
+]

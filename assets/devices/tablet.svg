@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="93" viewBox="0 0 91 93">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f66f1b"/>
+      <stop offset="1" stop-color="#f89405"/>
+    </linearGradient>
+    <filter id="Elipse_366" x="0" y="0" width="91" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.537"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_32597" data-name="Grupo 32597" transform="translate(0.063)">
+    <g transform="matrix(1, 0, 0, 1, -0.06, 0)" filter="url(#Elipse_366)">
+      <circle id="Elipse_366-2" data-name="Elipse 366" cx="45.5" cy="45.5" r="45.5" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="tablet" d="M45.938,4.833A4.835,4.835,0,0,0,41.105,0H4.833A4.835,4.835,0,0,0,0,4.833V60.17A4.835,4.835,0,0,0,4.833,65H41.11a4.835,4.835,0,0,0,4.833-4.833V4.833ZM22.906,2.913a.743.743,0,1,1-.743.743A.743.743,0,0,1,22.906,2.913Zm.122,60.052a2.4,2.4,0,1,1,2.4-2.4,2.4,2.4,0,0,1-2.4,2.4Zm19-6.275H3.91V7.331H42.029Z" transform="translate(22.404 14.7)" fill="#512e98"/>
+  </g>
+</svg>
